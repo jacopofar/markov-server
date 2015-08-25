@@ -1,0 +1,876 @@
+A plug-in electric vehicle (PEV) is any motor vehicle that can be recharged from an external source of electricity, such as wall sockets, and the electricity stored in the rechargeable battery packs drives or contributes to drive the wheels. PEV is a subset of electric vehicles that includes all-electric or battery electric vehicles (BEVs), plug-in hybrid vehicles (PHEVs), and electric vehicle conversions of hybrid electric vehicles and conventional internal combustion engine vehicles.[1][2][3]
+
+Plug-in cars have several benefits compared to conventional internal combustion engine vehicles. They have lower operating and maintenance costs, and produce little or no local air pollution. They reduce dependence on petroleum and may reduce greenhouse gas emissions from the onboard source of power, depending on the fuel and technology used for electricity generation to charge the batteries. Plug-in hybrids capture most of these benefits when they are operating in all-electric mode. Despite their potential benefits, market penetration of plug-in electric vehicles has been slower than expected as adoption faces several hurdles and limitations. As of 2013, plug-in electric vehicles are significantly more expensive than conventional vehicles and hybrid electric vehicles due to the additional cost of their lithium-ion battery packs. Other factors discouraging the adoption of electric cars are the lack of public and private recharging infrastructure and, in the case of all-electric vehicles, drivers' fear of the batteries running out of energy before reaching their destination due to the limited range of existing electric cars. Plug-in hybrids eliminate the problem of range anxiety associated to all-electric vehicles, because the combustion engine works as a backup when the batteries are depleted, giving PHEVs driving range comparable to other vehicles with gasoline tanks.
+
+Several national and local governments have established tax credits, subsidies, and other incentives to promote the introduction and adoption in the mass market of plug-in electric vehicles depending on their battery size and all-electric range. The term "plug-in electric drive vehicle" is formally used in U.S. federal legislation to grant this type of consumer incentive. In China, plug-in electric vehicles are called new energy vehicles (NEVs), and only pure electric vehicles and plug-in hybrid electric vehicles are subject to purchase incentives.
+
+As of June 2015, there are over 55 models of highway legal plug-in electric passenger cars and light-duty utility vans available for retail sales. The Nissan Leaf is the world's all-time top selling highway-capable all-electric car, with global sales of over 180,000 units by early June 2015, followed by the Chevrolet Volt plug-in hybrid, which together with its sibling the Opel/Vauxhall Ampera has combined sales of about 95,000 units as of June 2015.[4][5]
+
+As of June 2015, over 900,000 highway-capable plug-in electric passenger cars and light utility vehicles have been sold worldwide, led by the United States with a stock of over 345,000 plug-in electric cars delivered since 2008, representing 38% of global sales.[6] As of December 2014, Japan ranked second with about 108,000 units sold since 2009 (15%), followed by China with more than 83,000 plug-in passenger cars sold since 2008 (12%).[7][8] As of December 2014, over 228,000 light-duty plug-in electric vehicles have been registered in the European market since 2010, representing 32% of global sales.[9][10][11][12][13][14] European sales are led by the Netherlands with over 45,000 light-duty plug-in vehicles registered, followed by France with 43,600 all-electric cars and light utility vans sold since 2010, and Norway with over 43,400 plug-in electric vehicles registered.[7][15] In the heavy-duty segment, China is the world's leader, with about 36,500 all-electric buses sold through December 2014.[8]
+
+A plug-in electric vehicle (PEV) is any motor vehicle with rechargeable battery packs that can be charged from the electric grid, and the electricity stored on board drives or contributes to drive the wheels for propulsion.[1][2] Plug-in electric vehicles are also sometimes referred to as grid-enabled vehicles (GEV)[2] and also as electrically chargeable vehicles.[16]
+
+PEV is a subcategory of electric vehicles that includes battery electric vehicles (BEVs), plug-in hybrid vehicles, (PHEVs), and electric vehicle conversions of hybrid electric vehicles and conventional internal combustion engine vehicles.[1][2] Even though conventional hybrid electric vehicles (HEVs) have a battery that is continually recharged with power from the internal combustion engine and regenerative braking, they can not be recharged from an off-vehicle electric energy source, and therefore, they do not belong to the category of plug-in electric vehicles.[1][2]
+
+"Plug-in electric drive vehicle" is the legal term used in U.S. federal legislation to designate the category of motor vehicles eligible for federal tax credits depending on battery size and their all-electric range.[17][18] In some European countries, particularly in France, "electrically chargeable vehicle" is the formal term used to designate the vehicles eligible for these incentives.[19] While the term "plug-in electric vehicle" most often refers to automobiles or "plug-in cars", there are several other types of plug-in electric vehicle, including scooters, motorcycles, neighborhood electric vehicles or microcars, city cars, vans, light trucks or light commercial vehicles, buses, trucks or lorries, and military vehicles.[20]
+Battery electric vehicles
+Main article: Battery electric vehicle
+U.S. Army GEM e2 neighborhood electric vehicle.
+
+A battery electric vehicle (BEV) uses chemical energy stored in rechargeable battery packs as its only source for propulsion.[2][21] BEVs use electric motors and motor controllers instead of internal combustion engines (ICEs) for propulsion.[2]
+
+A plug-in hybrid operates as an all electric vehicle or BEV when operating in charge-depleting mode, but it switches to charge-sustaining mode after the battery has reached its minimum state of charge (SOC) threshold, exhausting the vehicle's all-electric range (AER).[22][23]
+Plug-in hybrid electric vehicles
+Main article: Plug-in hybrid
+
+A plug-in hybrid electric vehicle (PHEV or PHV), also known as a plug-in hybrid, is a hybrid electric vehicle with rechargeable batteries that can be restored to full charge by connecting a plug to an external electric power source.[2][24] A plug-in hybrid shares the characteristics of both a conventional hybrid electric vehicle and an all-electric vehicle: it uses a gasoline engine and an electric motor for propulsion, but a PHEV has a larger battery pack that can be recharged, allowing operation in all-electric mode until the battery is depleted.[24][25][26]
+Several Prius+ converted plug-in hybrids.
+Aftermarket conversions
+See also: Plug-in hybrid conversions and electric vehicle conversion
+
+An aftermarket electric vehicle conversion is the modification of a conventional internal combustion engine vehicle (ICEV) or hybrid electric vehicle (HEV) to electric propulsion, creating an all-electric or plug-in hybrid electric vehicle.[27][28][29]
+
+There are several companies in the U.S. offering conversions. The most common conversions have been from hybrid electric cars to plug-in hybrid, but due to the different technology used in hybrids by each carmaker, the easiest conversions are for 2004–2009 Toyota Prius and for the Ford Escape/Mercury Mariner Hybrid.[27]
+New energy vehicles
+
+In China the term new energy vehicles (NEVs) refers to vehicles that are partially or fully powered by electricity, such as battery electric vehicles (BEVs) and plug-in hybrids (PHEVs). The Chinese government began implementation of its NEV program in 2009 to foster the development and introduction of new energy vehicles.[30]
+Advantages
+Lower operating and maintenance costs
+
+Internal combustion engines are relatively inefficient at converting on-board fuel energy to propulsion as most of the energy is wasted as heat, and the rest while the engine is idling. Electric motors, on the other hand, are more efficient at converting stored energy into driving a vehicle. Electric drive vehicles do not consume energy while at rest or coasting, and modern plug-in cars can capture and reuse as much as one fifth of the energy normally lost during braking through regenerative braking.[31][32] Typically, conventional gasoline engines effectively use only 15% of the fuel energy content to move the vehicle or to power accessories, and diesel engines can reach on-board efficiencies of 20%, while electric drive vehicles typically have on-board efficiencies of around 80%.[31]
+The operating cost of the Toyota Prius Plug-in Hybrid in the U.S. is estimated at US$0.03 per mile while operating in all-electric mode.[31][33]
+
+In the United States, as of early 2010 with a national average electricity rate of US$0.10 per kWh,[34] the cost per mile for a plug-in electric vehicle operating in all-electric mode is estimated between $0.02 to $0.04, while the cost per mile of a standard automobile varies between $0.08 to $0.20, considering a gasoline price of $3.00 per gallon.[31] As petroleum price is expected to increase in the future due to oil production decline and increases in global demand, the cost difference in favor of PEVs is expected to become even more advantageous.[31]
+
+According to Consumer Reports, as of December 2011 the Nissan Leaf has a cost of 3.5 cents per mile and the Chevrolet Volt has a cost in electric mode of 3.8 cents per mile. The Volt cost per mile is higher because it is heavier than the Leaf. These estimates are based on the fuel economy and energy consumption measured on their tests and using a U.S. national average rate of 11 cents per kWh of electricity. When the Volt runs in range-extended mode using its premium gasoline-powered engine, the plug-in hybrid has a cost of 12.5 cents per mile. The out-of-pocket cost per mile of the three most fuel efficient gasoline-powered cars as tested by the magazine are the Toyota Prius, with a cost of 8.6 cents per miles, the Honda Civic Hybrid with 9.5 cents per mile, the Toyota Corolla with 11.9 cents per mile, and the Hyundai Elantra 13.1 cents per mile. The analysis also found that on trips up to 100 mi (160 km), the Volt is cheaper to drive than the Prius and the other three cars due to the Volt's 35 mi (56 km) driving range on electricity. The previous operating costs do not include maintenance, depreciation or other costs.[35]
+
+All-electric and plug-in hybrid vehicles also have lower maintenance costs as compared to internal combustion vehicles, since electronic systems break down much less often than the mechanical systems in conventional vehicles, and the fewer mechanical systems on board last longer due to the better use of the electric engine. PEVs do not require oil changes and other routine maintenance checks.[31][32]
+
+The following table compares out-of-pocket fuel costs estimated by the U.S. Environmental Protection Agency according to its official ratings for fuel economy (miles per gallon gasoline equivalent in the case of plug-in electric vehicles) for series production all-electric passenger vehicles rated by the EPA as of August 2015,[36] versus EPA rated most fuel efficient plug-in hybrid with long distance range (Chevrolet Volt), gasoline-electric hybrid car (Toyota Prius third generation),[37][38] and EPA's average new 2013/14 vehicle, which has a fuel economy of 23 mpg-US (10 L/100 km; 28 mpg-imp).[39][40]
+Comparison of fuel efficiency and costs for all the electric cars rated by the EPA for the U.S. market as of August 2015
+against EPA rated most fuel efficient plug-in hybrid, hybrid electric vehicle and 2013 average gasoline-powered car in the U.S.
+(Fuel economy and operating costs as displayed in the Monroney label)[39][41]
+Vehicle 	Model
+year 	EPA rated
+Combined
+fuel economy 	EPA rated
+City
+fuel economy 	EPA rated
+Highway
+fuel economy 	Cost to drive
+25 miles 	Annual
+fuel cost 	Notes
+BMW i3[42] 	2014 	124 mpg-e
+(27 kW-hrs/100 mi) 	137 mpg-e
+(25 kW-hrs/100 mi) 	111 mpg-e
+(30 kW-hrs/100 mi) 	$0.81 	$500 	(1) (3) (4) (5)
+Scion iQ EV[43] 	2013 	121 mpg-e
+(28 kW-hrs/100 mi) 	138 mpg-e
+(24 kW-hrs/100 mi) 	105 mpg-e
+(32 kW-hrs/100 mi) 	$0.84 	$500 	(1)
+Chevrolet Spark EV[44] 	2014 	119 mpg-e
+(28 kW-hrs/100 mi) 	128 mpg-e
+(26 kW-hrs/100 mi) 	109 mpg-e
+(31 kW-hrs/100 mi) 	$0.84 	$500 	(1)
+Honda Fit EV[45] 	2013 	118 mpg-e
+(29 kW-hrs/100 mi) 	132 mpg-e
+(26 kW-hrs/100 mi) 	105 mpg-e
+(32 kW-hrs/100 mi) 	$0.87 	$500 	(1)
+Fiat 500e[46] 	2013/14 	116 mpg-e
+(29 kW-hrs/100 mi) 	122 mpg-e
+(28 kW-hrs/100 mi) 	108 mpg-e
+(31 kW-hrs/100 mi) 	$0.87 	$500 	(1)
+Volkswagen e-Golf[47] 	2015 	116 mpg-e
+(29 kW-hrs/100 mi) 	126 mpg-e
+(27 kW-hrs/100 mi) 	105 mpg-e
+(33 kW-hrs/100 mi) 	$0.87 	$550 	(1)
+Nissan Leaf[48] 	2014/15 	114 mpg-e
+(30 kW-hrs/100 mi) 	126 mpg-e
+(27 kW-hrs/100 mi) 	101 mpg-e
+(33 kW-hrs/100 mi) 	$0.90 	$550 	(1)
+Mitsubishi i[49] 	2012/13 	112 mpg-e
+(30 kW-hrs/100 mi) 	126 mpg-e
+(27 kW-hrs/100 mi) 	99 mpg-e
+(34 kW-hrs/100 mi) 	$0.90 	$550 	(1)
+Smart electric drive[50] 	2013 	107 mpg-e
+(32 kW-hrs/100 mi) 	122 mpg-e
+(28 kW-hrs/100 mi) 	93 mpg-e
+(36 kW-hrs/100 mi) 	$0.96 	$600 	(1) (6)
+Kia Soul EV[51] 	2015 	105 mpg-e
+(32 kW-hrs/100 mi) 	120 mpg-e
+(29 kW-hrs/100 mi) 	92 mpg-e
+(37 kW-hrs/100 mi) 	$0.96 	$600 	(1)
+Ford Focus Electric[52] 	2012/13 	105 mpg-e
+(32 kW-hrs/100 mi) 	110 mpg-e
+(31 kW-hrs/100 mi) 	99 mpg-e
+(34 kW-hrs/100 mi) 	$0.96 	$600 	(1)
+Tesla Model S AWD - 70D[36][53] 	2015 	101 mpg-e
+(33 kW-hrs/100 mi) 	101 mpg-e
+(33 kW-hrs/100 mi) 	102 mpg-e
+(33 kW-hrs/100 mi) 	$0.99 	$600 	(1)
+Tesla Model S AWD - 85D[41] 	2015 	100 mpg-e
+(34 kWh/100 mi) 	95 mpg-e
+(35 kW-hrs/100 mi) 	106 mpg-e
+(32 kW-hrs/100 mi) 	$1.02 	$600 	(1) (7)
+Tesla Model S AWD - 90D[36][53] 	2015 	100 mpg-e
+(34 kW-hrs/100 mi) 	95 mpg-e
+(35 kW-hrs/100 mi) 	106 mpg-e
+(32 kW-hrs/100 mi) 	$1.02 	$600 	(1)
+Tesla Model S (60 kWh)[36][53] 	2014/15 	95 mpg-e
+(35 kW-hrs/100 mi) 	94 mpg-e
+(36 kW-hrs/100 mi) 	97 mpg-e
+(35 kW-hrs/100 mi) 	$1.05 	$650 	(1)
+Tesla Model S AWD - P85D[41] 	2015 	93 mpg-e
+(36 kWh/100 mi) 	89 mpg-e
+(38 kW-hrs/100 mi) 	98 mpg-e
+(35 kW-hrs/100 mi) 	$1.08 	$650 	(1) (7)
+Tesla Model S AWD - P90D[36][53] 	2015 	93 mpg-e
+(36 kW-hrs/100 mi) 	89 mpg-e
+(38 kW-hrs/100 mi) 	98 mpg-e
+(35 kW-hrs/100 mi) 	$1.08 	$650 	(1)
+Tesla Model S (85 kWh)[54] 	2012/14 	89 mpg-e
+(38 kW-hrs/100 mi) 	88 mpg-e
+(38 kW-hrs/100 mi) 	90 mpg-e
+(37 kW-hrs/100 mi) 	$1.14 	$700 	(1)
+Mercedes-Benz B-Class Electric Drive[55] 	2014 	84 mpg-e
+(40 kW-hrs/100 mi) 	85 mpg-e
+(40 kW-hrs/100 mi) 	83 mpg-e
+(41 kW-hrs/100 mi) 	$1.20 	$700 	(1)
+Toyota RAV4 EV[56] 	2012/13 	76 mpg-e
+(44 kW-hrs/100 mi) 	78 mpg-e
+(43 kW-hrs/100 mi) 	74 mpg-e
+(46 kW-hrs/100 mi) 	$1.32 	$850 	(1)
+BYD e6[36][57] 	2015 	63 mpg-e
+(54 kW-hrs/100 mi) 	61 mpg-e
+(55 kW-hrs/100 mi) 	65 mpg-e
+(52 kW-hrs/100 mi) 	$1.62 	$950 	(1)
+							
+Chevrolet Volt[58] (PHEV)
+Electricity only/ gasoline only 	2013/15 	98 mpg-e
+(35 kW-hrs/100 mi)/
+37 mpg 	NA/35 mpg 	NA/40 mpg 	$1.05/$2.57 	$900 	(1)(2)(9)
+Toyota Prius[59] (HEV)
+Gasoline-electric hybrid 	2010/13 	50 mpg 	51 mpg 	48 mpg 	$1.74 	$1,050 	(2)(10)
+Ford Taurus FWD FFV[39][60]
+(Average new car using regular gasoline) 	2013/14 	23 mpg 	19 mpg 	29 mpg 	$3.79 	$2,300 	(2)(8)
+Notes: All estimated fuel costs based on 15,000 miles annual driving, 45% highway and 55% city
+
+(1) Values rounded to the nearest $50. Electricity cost of $0.12/kW-hr (as of 26 January 2015). Conversion 1 gallon of gasoline=33.7 kW-hr.
+(2) Premium gasoline price of US$3.81 per gallon (used by the Volt), and regular gasoline price of US$3.49 per gallon (as of 30 March 2014).
+(3) The 2014 i3 REx is classified by EPA as a series plug-in hybrid, while for CARB is a range-extended battery-electric vehicle (BEVx). The i3 REx is the most fuel efficient EPA-certified current year vehicle with a gasoline engine with a combined gasoline/electricity rating of 88 mpg-e, but its total range is limited to 150 mi (240 km).[37][61]
+(4) The 2014 BMW i3 is the most fuel efficient EPA-certified vehicle of all fuel types considered in all years.[61]
+(5) The i3 REx has a combined fuel economy in all-electric mode of 117 mpg-e (29 kW-hrs/100 mi).[62]
+(6) Ratings correspond to both convertible and coupe models.
+(7) Model with 85 kWh battery pack
+(8) Other 2013 models achieving 23 mpg include the Chrysler 200, and the Toyota Venza.[60]
+(9) Most fuel efficient PHEV capable of long distance travel. The 2013/14 Volt has a rating of 62 mpg-e for combined gasoline/electricity operation.[37]
+(10) Most fuel efficient hybrid electric car, together with the Prius c.[37][63]
+
+The following table compares EPA's estimated out-of-pocket fuel costs and fuel economy ratings of serial production plug-in hybrid electric vehicles rated by EPA as of August 2015 expressed in miles per gallon gasoline equivalent (mpg-e),[36] versus the most fuel efficient gasoline-electric hybrid car, the 2015 Toyota Prius third generation and the Prius c, both rated 50 mpg-US (4.7 L/100 km; 60 mpg-imp), and EPA's average new 2015 vehicle, which has a fuel economy of 24 mpg-US (9.8 L/100 km; 29 mpg-imp).[64][65] The table also shows the fuel efficiency for plug-in hybrids in all-electric mode expressed as KW-hrs/100 mile, the metric used by EPA to rate electric cars before November 2010.[66]
+Comparison of out-of-pocket fuel costs and fuel economy for plug-in hybrid electric cars
+rated by EPA as of August 2015 with MPGe and conventional MPG(1)
+(as displayed in the Monroney label and the US DoE fueleconomy.gov website)
+Vehicle 	Year
+model 	Operating
+mode
+(EV range) 	EPA rated
+Combined
+fuel economy 	EPA rated
+city
+fuel economy 	EPA rated
+highway
+fuel economy 	Fuel cost
+to drive
+25 miles 	Annual
+fuel cost(1)
+(15,000 mi) 	Notes
+BMW i3 REx[36][67] 	2014/15 	Electricity only
+(72 mi) 	117 mpg-e
+(29 kW-hrs/100 mi) 	97 mpg-e 	79 mpg-e 	$0.87 	$650 	The EPA classifies the i3 REx as a
+series plug-in hybrid while CARB as a
+range-extended battery-electric vehicle (BEVx).
+The 2014 i3 REx is the most fuel efficient
+EPA-certified current year vehicle with
+a gasoline engine with a combined
+gasoline/electricity rating of 88 mpg-e
+(city 97 mpg-e/hwy 79 mpg-e).[37][61]
+Gasoline only
+(78 mi) 	39 mpg 	41 mpg 	37 mpg 	$2.04
+Honda Accord Plug-in Hybrid[68] 	2014 	Electricity
+and gasoline
+(13 miles) 	115mpg-e
+(29 kW-hrs/100 mi) 	- 	- 	$1.24 	$800 	The 2014 Accord is the most fuel
+efficient plug-in hybrid in blended EV mode
+with a rating of 115 mpg-e.
+The Accord has a rating for combined
+EV/hybrid operation of 57 mpg-e.[69]
+Gasoline only 	46 mpg 	47 mpg 	46 mpg 	$1.63
+Chevrolet Volt (2nd gen)[70] 	2016 	Electricity only
+(53 mi) 	106 mpg-e
+(31 kW-hrs/100 mi) 	- 	- 	- 	$700 	Regular gasoline.
+Gasoline only 	42 mpg 	- 	- 	-
+Chevrolet Volt (1st gen)[71] 	2013/15 	Electricity only
+(38 miles) 	98 mpg-e
+(35 kW-hrs/100 mi) 	- 	- 	$1.05 	$850 	The 2013/15 Volt has a combined
+gasoline/electricity rating of 62 mpg-e
+(city 63 mpg-e/hwy 61 mpg-e).[37]
+Premium gasoline.
+Gasoline only 	37 mpg 	35 mpg 	40 mpg 	$2.15
+Toyota Prius PHV[72] 	2012/15 	Electricity
+and gasoline
+(11 miles) 	95 mpg-e
+(29 kW-hrs/100 mi
+plus 0.2 gallons/100 mi) 	- 	- 	$1.29 	$800 	After the first 11 miles the car
+functions like a regular Prius hybrid
+The 2012/15 Prius has a combined
+gasoline/electricity rating of 58 mpg-e
+(city 59 mpg-e/hwy 56 mpg-e).[37]
+Gasoline only 	50 mpg 	51 mpg 	49 mpg 	$1.50
+Chevrolet Volt[73] 	2011/12 	Electricity only 	94 mpg-e
+(36 kW-hrs/100 mi) 	95 mpg-e
+(36 kW-hrs/100 mi) 	93 mpg-e
+(37 kW-hrs/100 mi) 	$1.08 	$900 	Premium gasoline.
+Gasoline only 	37 mpg 	35 mpg 	40 mpg 	$2.15
+Ford C-Max Energi[74]
+
+Ford Fusion Energi[74] 	2013/15 	Electricity
+and gasoline
+(20 mi) 	88 mpg-e
+(37 kW-hrs/100 mi) 	95 mpg-e 	81 mpg-e 	$1.30 	$950 	The Energi did not use any gasoline
+for the first 20 miles in EPA tests,
+but depending on the driving style,
+the car may use both gasoline
+and electricity during EV mode.
+The Energi models have a combined
+EV/hybrid operation rating of 51 mpg-e
+(city 55 mpg-e/hwy 46 mpg-e).[37]
+Gasoline only 	38 mpg 	40 mpg 	36 mpg 	$1.97
+Cadillac ELR[75] 	2014/15 	Electricity only
+(37 mi) 	82 mpg-e
+(41 kW-hrs/100 mi) 	- 	- 	$1.23 	$1,000 	The 2014/15 ELR has a combined
+gasoline/electricity rating of 54 mpg-e
+(city 54 mpg-e/hwy 55 mpg-e).[37]
+Gasoline only 	33 mpg 	31 mpg 	35 mpg 	$2.41
+BMW i8[36][76] 	2014/15 	Electricity
+and
+gasoline
+(15 mi) 	76 mpg-e
+(43 kW-hrs/100 mi) 	- 	- 	$1.95 	$1,350 	The i8 does not run on 100% electricity
+as it consumes 0.1 gallons per 100 mi
+in EV mode (all-electric range = 0 mi)
+The i8 has a rating for combined EV/hybrid
+operation of 37 mpg-e.[69]
+Gasoline only 	28 mpg 	28 mpg 	29 mpg 	$2.84
+Porsche 918 Spyder[36][77] 	2015 	Electricity only
+(12 mi) 	67 mpg-e
+(50 kW-hrs/100 mi) 	- 	- 	$1.50 	$1,800 	Premium gasoline.
+Gasoline only 	22 mpg 	20 mpg 	24 mpg 	$3.61
+Fisker Karma[78] 	2012 	Electricity only
+(33 miles) 	54 mpg-e
+(62 kW-hrs/100 mi) 	- 	- 	$1.86 	$1,600 	Premium gasoline.
+Gasoline only 	20 mpg 	20 mpg 	21 mpg 	$3.98
+Porsche Panamera S E-Hybrid[79] 	2016 	Electricity
+and gasoline
+(16 mi) 	51 mpg-e
+(51 kWh/100 mi) 	- 	- 	$2.36 	$1,600 	The all-electric range is between 0 to 15 mi
+Premium gasoline.
+Gasoline only 	25 mpg 	23 mpg 	29 mpg 	$3.18
+Porsche Panamera S E-Hybrid[79] 	2014/15 	Electricity
+and gasoline
+(16 mi) 	50 mpg-e
+(52 kWh/100 mi) 	- 	- 	$2.40 	$1,600 	The all-electric range is between 0 to 15 mi
+The S E-Hybrid has a rating for combined
+EV/hybrid operation of 31 mpg-e.[69]
+Gasoline only 	25 mpg 	23 mpg 	29 mpg 	$3.18
+Porsche Cayenne S E-Hybrid[36][80] 	2015/16 	Electricity
+and gasoline
+(14 mi) 	47 mpg-e
+(69 kWh/100 mi) 	- 	- 	$2.07 	$1,800 	Premium gasoline.
+Gasoline only 	22 mpg 	21 mpg 	24 mpg 	$3.61
+McLaren P1[36][81] 	2014/15 	Electricity
+and gasoline
+(19 mi) 	18 mpg-e
+(25 kWh/100 mi) 	- 	- 	$4.58 	$2,700 	The P1 does not run on 100% electricity
+as it consumes 4.8 gallons per 100 mi
+in EV mode (all-electric range = 0 mi)[81]
+The P1 has a rating for combined EV/hybrid
+operation of 17 mpg-e.[69]
+Gasoline only 	17 mpg 	16 mpg 	20 mpg 	$4.68
+								
+Toyota Prius[65]
+Toyota Prius c[65] 	2015 	Gasoline-electric
+hybrid 	50 mpg 	51 mpg
+53 mpg 	48 mpg
+46 mpg 	$1.50 	$900 	Most fuel efficient hybrid electric cars.[64]
+Chevrolet Malibu[82]
+(Average new car) 	2015 	Gasoline only 	24 mpg 	21 mpg 	30 mpg 	$3.12 	$1,900 	Other 2015 models achieving 24 mpg
+include the Buick Regal, and Kia Optima.[82]
+Notes: (1) Based on 45% highway and 55% city driving. Electricity cost of US$0.12/kw-hr, premium gasoline price of US$3.18 per gallon (used by the Volt, i3 REx, ELR, i8, Karma and all Porsche models), and regular gasoline price of US$3.00 per gallon (as of 14 August 2015). Conversion 1 gallon of gasoline=33.7 kW-hr.
+
+The Edison Electric Institute (EEI) conducted an analysis that demonstrated that between January 1976 and February 2012 the real price for gasoline has been much more volatile than the real price of electricity in the United States. The analysis is based on a plug-in electric vehicle with an efficiency of 3.4 miles per kW-hr (like the Mitsubishi i MiEV) and a gasoline-powered vehicle with a fuel economy rated at 30 mpg-US (7.8 L/100 km; 36 mpg-imp) (like the 2012 Fiat 500). The EEI estimated that operating a plug-in would have had an equivalent cost of around US$1.50 a gallon in the late 1970s and early 1980s, and around US$1.00 a gallon since the late 1990s. In contrast, the price to operate an internal combustion engine vehicle has had much ample variations, costing more than US$3.50 per gallon during the 1979 energy crisis, then had a couple of lows with prices at less than US$1.50 during 1999 and 2001, only to climb and reach a maximum of more than US$4.00 before the beginning of the 2007–2009 financial crisis, by early 2012 has fluctuated around US$3.50. The analysis found that the cost of an equivalent electric-gallon of gasoline would have been not only cheaper to operate during the entire analysis period but also that equivalent electricity prices are more stable and have been declining in terms of equivalent dollars per gallon.[83][84]
+Air pollution and greenhouse gas emissions
+See also: Air pollution and carbon emissions in electric cars and Greenhouse gas emissions in plug-in hybrids
+RechargeIT converted Toyota Prius plug-in hybrids at Google's Mountain View campus. The garage has recharging facilities powered by solar panels.
+
+Electric cars, as well as plug-in hybrids operating in all-electric mode, emit no harmful tailpipe pollutants from the onboard source of power, such as particulates (soot), volatile organic compounds, hydrocarbons, carbon monoxide, ozone, lead, and various oxides of nitrogen. The clean air benefit is usually local because, depending on the source of the electricity used to recharge the batteries, air pollutant emissions are shifted to the location of the generation plants.[32] In a similar manner, plug-in electric vehicles operating in all-electric mode do not emit greenhouse gases from the onboard source of power, but from the point of view of a well-to-wheel assessment, the extent of the benefit also depends on the fuel and technology used for electricity generation. This fact has been referred to as the long tailpipe of plug-in electric vehicles. From the perspective of a full life cycle analysis, the electricity used to recharge the batteries must be generated from renewable or clean sources such as wind, solar, hydroelectric, or nuclear power for PEVs to have almost none or zero well-to-wheel emissions.[1][32] On the other hand, when PEVs are recharged from coal-fired plants, they usually produce slightly more greenhouse gas emissions than internal combustion engine vehicles and higher than hybrid electric vehicles.[32][85] In the case of plug-in hybrid electric vehicles operating in hybrid mode with assistance of the internal combustion engine, tailpipe and greenhouse emissions are lower in comparison to conventional cars because of their higher fuel economy.[1]
+
+The magnitude of the potential advantage depends on the mix of generation sources and therefore varies by country and by region. For example, France can obtain significant emission benefits from electric and plug-in hybrids because most of its electricity is generated by nuclear power plants; California, where most energy comes from natural gas, hydroelectric and nuclear plants can also secure substantial emission benefits. The U.K. also has a significant potential to benefit from PEVs as natural gas plants dominate the generation mix. On the other hand, emission benefits in Germany, China, India, and the central regions of the United States are limited or non-existent because most electricity is generated from coal.[32][86] However these countries and regions might still obtain some air quality benefits by reducing local air pollution in urban areas. Cities with chronic air pollution problems, such as Los Angeles, México City, Santiago, Chile, São Paulo, Beijing, Bangkok and Katmandu may also gain local clean air benefits by shifting the harmful emission to electric generation plants located outside the cities. Nevertheless, the location of the plants is not relevant when considering greenhouse gas emission because their effect is global.[32]
+Carbon footprint during production
+
+Ricardo
+
+A report published in June 2011, prepared by Ricardo in collaboration with experts from the UK's Low Carbon Vehicle Partnership, found that hybrid electric cars, plug-in hybrids and all-electric cars generate more carbon emissions during their production than current conventional vehicles, but still have a lower overall carbon footprint over the full life cycle. The higher carbon footprint during production of electric drive vehicles is due mainly to the production of batteries. As an example, 43 percent of production emissions for a mid-size electric car are generated from the battery production, while for standard mid-sized gasolineinternal combustion engine vehicle, around 75% of the embedded carbon emissions during production comes from the steel used in the vehicle glider.[87] The following table summarizes key results of this study for four powertrain technologies:
+Comparison of full life cycle assessment(well-to-wheels) of carbon emissions
+and carbon footprint during production for four different powertrain technologies[87]
+Type of vehicle
+(powertrain) 	Estimated
+emissions in production
+(tonnes CO2e) 	Estimated
+lifecycle emissions
+(tonnes CO2e) 	Percentage of
+
+emissions
+during production
+Standard gasoline vehicle 	5.6 	24 	23%
+Hybrid electric vehicle 	6.5 	21 	31%
+Plug-in hybrid electric vehicle 	6.7 	19 	35%
+Battery electric vehicle 	8.8 	19 	46%
+Notes: Estimates based upon a 2015 model vehicle assuming 150,000 km (93,000 mi) full life travel using 10% ethanol blend and 500g/kWh grid electricity.
+
+The Ricardo study also found that the lifecycle carbon emissions for mid-sized gasoline and diesel vehicles are almost identical, and that the greater fuel efficiency of the diesel engine is offset by higher production emissions.[87]
+
+Volkswagen
+
+In 2014 Volkswagen published the results of life-cycle assessment of its electric vehicles certified by TÜV NORD, and independent inspection agency. The study found that CO
+2 emissions during the use phase of its all-electric VW e-Golf are 99% lower than those of the Golf 1.2 TSI when powers comes from exclusively hydroelectricity generated in Germany, Austria and Switzerland. Accounting for the full lifecycle, the e-Golf reduces emissions by 61%, offsetting higher production emissions. When the actual EU-27 electricity mix is considered, the e-Golf emissions are still 26% lower than those of the conventional Golf 1.2 TSI. Similar results were found when comparing the e-Golf with the Golf 1.6 TDI. The analysis considered recycling of the three vehicles at the end of their lifetime.[88]
+Well-to-wheel GHG emissions in the U.S.
+
+Environmental Protection Agency
+
+The following table compares tailpipe and upstream CO2 emissions estimated by the U.S. Environmental Protection Agency for all series production model year 2014 plug-in electric vehicles available in the U.S. market. Total emissions include the emissions associated with the production and distribution of electricity used to charge the vehicle, and for plug-in hybrid electric vehicles, it also includes emissions associated with tailpipe emissions produced from the internal combustion engine. These figures were published by the EPA in October 2014 in its annual report "Light-Duty Automotive Technology, Carbon Dioxide Emissions, and Fuel Economy Trends: 1975 Through 2014." All emissions are estimated considering average real world city and highway operation based on the EPA 5-cycle label methodology, using a weighted 55% city and 45% highway driving. For the first time, the 2014 Trends report presents an analysis of the impact of alternative fuel vehicles, with emphasis in plug-in electric vehicles because as their market share is approaching 1%, the EPA concluded that PEVs began to have a measurable impact on the U.S. overall new vehicle fuel economy and CO2 emissions.[69][89]
+
+For purposes of an accurate estimation of emissions, the analysis took into consideration the differences in operation between plug-in hybrids. Some, like the Chevrolet Volt, can operate in all-electric mode without using gasoline, and others operate in a blended mode like the Toyota Prius PHV, which uses both energy stored in the battery and energy from the gasoline tank to propel the vehicle, but that can deliver substantial all-electric driving in blended mode. In addition, since the all-electric range of plug-in hybrids depends on the size of the battery pack, the analysis introduced a utility factor as a projection of the share of miles that will be driven using electricity by an average driver, for both, electric only and blended EV modes. Since all-electric cars do not produce tailpipe emissions, the utility factor applies only to plug-in hybrids. The following table shows the overall fuel economy expressed in terms of miles per gallon gasoline equivalent (mpg-e) and the utility factor for the ten MY2014 plug-in hybrids available in the U.S. market, and EPA's best estimate of the CO2 tailpipe emissions produced by these PHEVs.[69]
+
+In order to account for the upstream CO2 emissions associated with the production and distribution of electricity, and since electricity production in the United States varies significantly from region to region, the EPA considered three scenarios/ranges with the low end scenario corresponding to the California powerplant emissions factor, the middle of the range represented by the national average powerplant emissions factor, and the upper end of the range corresponding to the powerplant emissions factor for the Rocky Mountains. The EPA estimates that the electricity GHG emission factors for various regions of the country vary from 346 g CO2/kWh in California to 986 g CO2/kWh in the Rockies, with a national average of 648 g CO2/kWh.[69]
+Comparison of tailpipe and upstream CO2 emissions(1) estimated by EPA
+for the MY 2014 plug-in electric vehicles available in the U.S. market[69]
+Vehicle 	Overall
+fuel
+economy
+(mpg-e) 	Utility
+factor(2)
+(share EV
+miles) 	Tailpipe CO2
+(g/mi) 	Tailpipe + Total Upstream CO2
+Low
+(g/mi) 	Avg
+(g/mi) 	High
+(g/mi)
+BMW i3 	124 	1 	0 	93 	175 	266
+Chevrolet Spark EV 	119 	1 	0 	97 	181 	276
+Honda Fit EV 	118 	1 	0 	99 	185 	281
+Fiat 500e 	116 	1 	0 	101 	189 	288
+Nissan Leaf 	114 	1 	0 	104 	194 	296
+Mitsubishi i 	112 	1 	0 	104 	195 	296
+Smart electric drive 	107 	1 	0 	109 	204 	311
+Ford Focus Electric 	105 	1 	0 	111 	208 	316
+Tesla Model S (60 kWh) 	95 	1 	0 	122 	229 	348
+Tesla Model S (85 kWh) 	89 	1 	0 	131 	246 	374
+BMW i3 REx(3) 	88 	0.83 	40 	134 	207 	288
+Mercedes-Benz B-Class ED 	84 	1 	0 	138 	259 	394
+Toyota RAV4 EV 	76 	1 	0 	153 	287 	436
+BYD e6 	63 	1 	0 	187 	350 	532
+Chevrolet Volt 	62 	0.66 	81 	180 	249 	326
+Toyota Prius Plug-in Hybrid 	58 	0.29 	133 	195 	221 	249
+Honda Accord Plug-in Hybrid 	57 	0.33 	130 	196 	225 	257
+Cadillac ELR 	54 	0.65 	91 	206 	286 	377
+Ford C-Max Energi 	51 	0.45 	129 	219 	269 	326
+Ford Fusion Energi 	51 	0.45 	129 	219 	269 	326
+BMW i8 	37 	0.37 	198 	303 	351 	404
+Porsche Panamera S E-Hybrid 	31 	0.39 	206 	328 	389 	457
+McLaren P1 	17 	0.43 	463 	617 	650 	687
+Average MY 2014 gasoline car 	24.2 	0 	367 	400 	400 	400
+Notes: (1) Based on 45% highway and 55% city driving. (2) The utility factor represents, on average, the percentage of miles that will be driven
+using electricity (in electric only and blended modes) by an average driver. (3) The EPA classifies the i3 REx as a series plug-in hybrid[39][69]
+
+Union of Concerned Scientists
+
+The Union of Concerned Scientists (UCS) published a study in 2012 that assessed average greenhouse gas emissions in the U.S. resulting from charging plug-in car batteries from the perspective of the full life-cycle (well-to-wheel analysis) and according to fuel and technology used to generate electric power by region. The study used the model year 2011 Nissan Leaf all-electric car to establish the analysis baseline, and electric-utility emissions are based on EPA's 2009 estimates. The UCS study expressed the results in terms of miles per gallon instead of the conventional unit of grams of greenhouse gases or carbon dioxide equivalent emissions per year in order to make the results more friendly for consumers. The study found that in areas where electricity is generated from natural gas, nuclear, hydroelectric or renewable sources, the potential of plug-in electric cars to reduce greenhouse emissions is significant. On the other hand, in regions where a high proportion of power is generated from coal, hybrid electric cars produce less CO2 equivalent emissions than plug-in electric cars, and the best fuel efficient gasoline-powered subcompact car produces slightly less emissions than a PEV. In the worst-case scenario, the study estimated that for a region where all energy is generated from coal, a plug-in electric car would emit greenhouse gas emissions equivalent to a gasoline car rated at a combined city/highway driving fuel economy of 30 mpg-US (7.8 L/100 km; 36 mpg-imp). In contrast, in a region that is completely reliant on natural gas, the PEV would be equivalent to a gasoline-powered car rated at 50 mpg-US (4.7 L/100 km; 60 mpg-imp).[90][91]
+
+The study concluded that for 45% of the U.S. population, a plug-in electric car will generate lower CO2 equivalent emissions than a gasoline-powered car capable of combined 50 mpg-US (4.7 L/100 km; 60 mpg-imp), such as the Toyota Prius and the Prius c. The UCS also found that for 37% of the population, the electric car emissions will fall in the range of a gasoline-powered car rated at a combined fuel economy of 41 to 50 mpg-US (5.7 to 4.7 L/100 km; 49 to 60 mpg-imp), such as the Honda Civic Hybrid and the Lexus CT200h. Only 18% of the population lives in areas where the power-supply is more dependent on burning carbon, and the greenhouse gas emissions will be equivalent to a car rated at a combined fuel economy of 31 to 40 mpg-US (7.6 to 5.9 L/100 km; 37 to 48 mpg-imp), such as the Chevrolet Cruze and Ford Focus.[91][92][93] The study found that there are no regions in the U.S. where plug-in electric cars will have higher greenhouse gas emissions than the average new compact gasoline engine automobile, and the area with the dirtiest power supply produces CO2 emissions equivalent to a gasoline-powered car rated at 33 mpg-US (7.1 L/100 km).[90]
+
+In September 2014 the UCS published an updated analysis of its 2012 report. The 2014 analysis found that 60% of Americans, up from 45% in 2012, live in regions where an all-electric car produce fewer CO2 equivalent emissions per mile than the most efficient hybrid. The UCS study found several reasons for the improvement. First, electric utilities have adopted cleaner sources of electricity to their mix between the two analysis. The 2014 study used electric-utility emissions based on EPA's 2010 estimates, but since coal use nationwide is down by about 5% from 2010 to 2014, actual efficiency in 2014 is better than estimated in the UCS study. Second, electric vehicles have become more efficient, as the average 2013 all-electric vehicle used 0.33 kWh per mile, representing a 5% improvement over 2011 models. Also, some new models are cleaner than the average, such as the BMW i3, which is rated at 0.27 kWh by the EPA. An i3 charged with power from the Midwest grid would be as clean as a gasoline-powered car with about 50 mpg-US (4.7 L/100 km), up from 39 mpg-US (6.0 L/100 km) for the average electric car in the 2012 study. In states with a cleaner mix generation, the gains were larger. The average all-electric car in California went up to 95 mpg-US (2.5 L/100 km) equivalent from 78 mpg-US (3.0 L/100 km) in the 2012 study. States with dirtier generation that rely heavily on coal still lag, such as Colorado, where the average BEV only achieves the same emissions as a 34 mpg-US (6.9 L/100 km; 41 mpg-imp) gasoline-powered car. The author of the 2014 analysis noted that the benefits are not distributed evenly across the U.S. because electric car adoptions is concentrated in the states with cleaner power.[94][95]
+
+National Bureau of Economic Research
+
+One criticism to the UCS study is that the analysis was made using average emissions rates across regions instead of marginal generation at different times of the day. The former approach does not take into account the generation mix within interconnected electricity markets and shifting load profiles throughout the day.[96][97] An analysis by three economist affiliated with the National Bureau of Economic Research (NBER), published in November 2014, developed a methodology to estimate marginal emissions of electricity demand that vary by location and time of day across the United States. The marginal analysis, applied to plug-in electric vehicles, found that the emissions of charging PEVs vary by region and hours of the day. In some regions, such as the Western U.S. and Texas, CO2 emissions per mile from driving PEVs are less than those from driving a hybrid car. However, in other regions, such as the Upper Midwest, charging during the recommended hours of midnight to 4 a.m. implies that PEVs generate more emissions per mile than the average car currently on the road. The results show a fundamental tension between electricity load management and environmental goals as the hours when electricity is the least expensive to produce tend to be the hours with the greatest emissions. This occurs because coal-fired units, which have higher emission rates, are most commonly used to meet base-level and off-peak electricity demand; while natural gas units, which have relatively low emissions rates, are often brought online to meet peak demand.[97]
+Well-to-wheel GHG emissions in several countries
+
+A study published in the UK in April 2013 assessed the carbon footprint of plug-in electric vehicles in 20 countries. As a baseline the analysis established that manufacturing emissions account for 70 g CO2/km for an electric car and 40 g CO2/km for a petrol car. The study found that in countries with coal-intensive generation, PEVs are no different from conventional petrol-powered vehicles. Among these countries are China, Indonesia, Australia, South Africa and India. A pure electric car in India generates emissions comparable to a 20 mpg-US (12 L/100 km; 24 mpg-imp) petrol car.[98][99]
+
+The country ranking was led by Paraguay, where all electricity is produced from hydropower, and Iceland, where electricity production relies on renewable power, mainly hydro and geothermal power. Resulting carbon emissions from an electric car in both countries are 70 g CO2/km, which is equivalent to a 220 mpg-US (1.1 L/100 km; 260 mpg-imp) petrol car, and correspond to manufacturing emissions. Next in the ranking are other countries with low carbon electricity generation, including Sweden (mostly hydro and nuclear power ), Brazil (mainly hydropower) and France (predominantly nuclear power). Countries ranking in the middle include Japan, Germany, the UK and the United States.[98][99][100]
+
+The following table shows the emissions intensity estimated in the study for those countries where electric vehicle are available, and the corresponding emissions equivalent in miles per US gallon of a petrol-powered car:
+Country comparison of full life cycle assessment
+of greenhouse gas emissions resulting from charging plug-in electric cars and
+emissions equivalent in terms of miles per US gallon of a petrol-powered car[98][100]
+Country 	PEV well-to-wheels
+carbon dioxide equivalent
+emissions per electric car
+expressed in (CO2e/km) 	Power
+source 	PEV well-to-wheels
+emissions equivalent
+in terms of mpg US
+of petrol-powered car 	Equivalent
+petrol car
+ Sweden 	81 	Low carbon 	159 mpg-US (1.48 L/100 km) 	Hybrid
+multiples
+ France 	93 	123 mpg-US (1.91 L/100 km)
+ Canada 	115 	Fossil light 	87 mpg-US (2.7 L/100 km) 	Beyond
+hybrid
+ Spain 	146 	61 mpg-US (3.9 L/100 km)
+ Japan 	175 	Broad mix 	48 mpg-US (4.9 L/100 km) 	New
+hybrid
+ Germany 	179 	47 mpg-US (5.0 L/100 km)
+ United Kingdom 	189 	44 mpg-US (5.3 L/100 km)
+ United States 	202 	Fossil heavy 	40 mpg-US (5.9 L/100 km) 	Efficient
+petrol
+ Mexico 	203 	40 mpg-US (5.9 L/100 km)
+ China 	258 	Coal-based 	30 mpg-US (7.8 L/100 km) 	Average
+petrol
+ Australia 	292 	26 mpg-US (9.0 L/100 km)
+ India 	370 	20 mpg-US (12 L/100 km)
+Note: Electric car manufacturing emissions account for 70 g CO2/km
+Source: Shades of Green: Electric Cars’ Carbon Emissions Around the Globe, Shrink That Footprint, February 2013.[100]
+Less dependence on imported oil
+See also: Energy resilience, Energy security and Mitigation of peak oil
+Evolution of oil prices since 1987 (average Brent spot prices - adjusted for U.S. inflation).
+
+For many net oil importing countries the 2000s energy crisis brought back concerns first raised during the 1973 oil crisis. For the United States, the other developed countries and emerging countries their dependence on foreign oil has revived concerns about their vulnerability to price shocks and supply disruption. Also, there have been concerns about the uncertainty surrounding peak oil production and the higher cost of extracting unconventional oil. A third issue that has been raised is the threat to national security because most proven oil reserves are concentrated in relatively few geographic locations, including some countries with strong resource nationalism, unstable governments or hostile to U.S. interests.[32][101][102] In addition, for many developing countries, and particularly for the poorest African countries, high oil prices have an adverse impact on the government budget and deteriorate their terms of trade thus jeopardizing their balance of payments, all leading to lower economic growth.[103][104]
+
+Through the gradual replacement of internal combustion engine vehicles for electric cars and plug-in hybrids, electric drive vehicles can contribute significantly to lessen the dependence of the transport sector on imported oil as well as contributing to the development of a more resilient energy supply.[32][101][102][105]
+Vehicle-to-grid
+Main article: Vehicle-to-grid
+
+Plug-in electric vehicles offer users the opportunity to sell electricity stored in their batteries back to the power grid, thereby helping utilities to operate more efficiently in the management of their demand peaks.[106] A vehicle-to-grid (V2G) system would take advantage of the fact that most vehicles are parked an average of 95 percent of the time. During such idle times the electricity stored in the batteries could be transferred from the PEV to the power lines and back to the grid. In the U.S this transfer back to the grid have an estimated value to the utilities of up to $4,000 per year per car.[107] In a V2G system it would also be expected that battery electric (BEVs) and plug-in hybrids (PHEVs) would have the capability to communicate automatically with the power grid to sell demand response services by either delivering electricity into the grid or by throttling their charging rate.[106][108][109]
+Disadvantages
+Tesla Model S electric car (left) and Fisker Karma plug-in hybrid (right) at the parking spots reserved for green cars at San Francisco International Airport.
+Cost of batteries and cost of ownership
+Main article: Electric vehicle battery
+
+As of 2013, plug-in electric vehicles are significantly more expensive as compared to conventional internal combustion engine vehicles and hybrid electric vehicles due to the additional cost of their lithium-ion battery pack. According to a 2010 study by the National Research Council, the cost of a lithium-ion battery pack is about US$1,700/kWh of usable energy, and considering that a PHEV-10 requires about 2.0 kWh and a PHEV-40 about 8 kWh, the manufacturer cost of the battery pack for a PHEV-10 is around US$3,000 and it goes up to US$14,000 for a PHEV-40.[110][111] As of June 2012, and based on the three battery size options offered for the Tesla Model S, the New York Times estimated the cost of automotive battery packs between US$400 to US$500 per kilowatt-hour.[112] A 2013 study by the American Council for an Energy-Efficient Economy reported that battery costs came down from US$1,300 per kWh in 2007 to US$500 per kWh in 2012. The U.S. Department of Energy has set cost targets for its sponsored battery research of US$300 per kWh in 2015 and US$125 per kWh by 2022. Cost reductions through advances in battery technology and higher production volumes will allow plug-in electric vehicles to be more competitive with conventional internal combustion engine vehicles.[113]
+
+A study published in 2011 by the Belfer Center, Harvard University, found that the gasoline costs savings of plug-in electric cars do not offset their higher purchase prices when comparing their lifetime net present value of purchase and operating costs for the U.S. market at 2010 prices, and assuming no government subidies. According to the study estimates, a PHEV-40 is US$5,377 more expensive than a conventional internal combustion engine, while a battery electric vehicles is US$4,819 more expensive.[114] These findings assumed a battery cost of US$600 per kWh, which means that the Chevrolet Volt battery pack cost around US$10,000 and the Nissan Leaf pack costs US$14,400. The study also assumed a gasoline price of US$3.75 per gallon (as of mid June 2011), that vehicles are driven 12,000 miles (19,000 km) per year, an average price of electricity of US$0.12 per kWh, that the plug-in hybrid is driven in all-electric mode 85% of the time, and that the owner of PEVs pay US$1,500 to install a Level II 220/240 volt charger at home.[115]
+
+The study also include hybrid electric vehicles in the comparison, and analyzed several scenarios to determine how the comparative net savings will change over the next 10 to 20 years, assuming that battery costs will decrease while gasoline prices increase, and also assuming higher fuel efficiency of conventional cars, among other scenarios. Under the future scenarios considered, the study found that BEVs will be significantly less expensive than conventional cars (US$1,155 to US$7,181 cheaper), while PHEVs, will be more expensive than BEVs in almost all comparison scenarios, and only less expensive than conventional cars in a scenario with very low battery costs and high gasoline prices. The reason for the different savings among PEVs is because BEVs are simpler to build and do not use liquid fuel, while PHEVs have more complicated powertrains and still have gasoline-powered engines. The following table summarizes the results of four of the seven scenarios analyzed by the study.[115]
+Comparison of net lifetime savings
+among conventional gasoline-powered cars, hybrids and plug-in electric cars
+for several scenarios (U.S. market at 2010 prices)[115]
+Description 	Conventional
+ICE 	Hybrid electric
+(HEV) 	Plug-in hybrid
+(PHEV) 	Battery electric
+(BEV)
+Scenario: 2010 costs
+(battery US$600 per kWh, gasoline US$3.75 per gallon, and electricity US$0.12 per kWh)
+Purchase price 	US$21,390 	US$22,930 	US$30,235 	US$33,565
+Total net present cost 	US$32,861 	US$33,059 	US$38,239 	US$37,680
+Cost differential with conventional car 	- 	US$197 	US$5,377 	US$4,819
+Scenario: Future Costs - Lower battery cost and higher gasoline and electricity prices
+(battery US$300 per kWh, gasoline US$4.50 per gallon, and electricity US$0.15 per kWh)
+Total net present cost 	US$34,152 	US$32,680 	US$34,601 	US$30,674
+Cost differential with conventional car 	- 	(US$1,472) 	US$449 	(US$3,478)
+Scenario: Future Costs - Low battery cost and higher gasoline and electricity prices
+(battery US$150 per kWh, gasoline US$4.50 per gallon, and electricity US$0.15 per kWh)
+Total net present cost 	US$34,152 	US$32,080 	US$32,549 	US$26,971
+Cost differential with conventional car 	- 	(US$2,072) 	(US$1,603) 	(US$7,181)
+Scenario: Higher fuel efficiency
+ICEs:50 miles per US gallon (4.7 L/100 km; 60 mpg-imp)
+HEVs and PHEVs: 75 miles per US gallon (3.1 L/100 km; 90 mpg-imp)
+(battery US$300 per kWh, gasoline US$4.50 per gallon, and electricity US$0.15 per kWh)
+Total net present cost 	US$32,829 	US$31,366 	US$34,403 	US$30,674
+Cost differential with conventional car 	- 	(US$463) 	US$2,574 	(US$1,155)
+Note: Assumes vehicles are driven 12,000 miles (19,000 km) per year and plug-in hybrid is driven in all-electric mode 85% of the time. Does not take into account other differences in cost of ownership.
+
+According to a study by the Electric Power Research Institute published in June 2013, the total cost of ownership of the 2013 Nissan Leaf SV is substantially lower than that of comparable conventional and hybrid vehicles. For comparison, the study constructed average hybrid and conventional vehicles and assumed an average US distance per trip distribution. The study took into account the manufacturer's suggested retail price, taxes, credits, destination charge, electric charging station, fuel cost, maintenance cost, and additional cost due to the use of a gasoline vehicle for trips beyond the range of the Leaf.[116]
+Electric Power Research Institute comparison of
+the Leaf versus average conventional and hybrid cars.
+Vehicle 	Operating mode
+(powertrain) 	Total ownership cost
+US Average 	California
+Nissan Leaf SV 	All-electric 	$37,288 	$35,596
+Chevrolet Volt 	Plug-in hybrid 	$44,176 	$40,800
+Average Conventional 	Gasoline 	$44,949 	$46,561
+Average Hybrid 	Gasoline-electric hybrid 	$44,325 	$45,416
+Notes: Costs are based on a gasoline price of $3.64 per gallon, an electricity rate of $0.12/kWh, and a vehicle lifetime of 150,000 miles.
+The average conventional car was constructed by averaging of Honda Civic EX, Chevrolet Cruze LTZ, Ford Focus Titanium, and Volkswagen Passat.
+The average hybrid car was constructed from Ford Fusion Hybrid, Honda Civic Hybrid, Toyota Camry Hybrid XLE, and Toyota Prius trim IV.
+Availability of recharging infrastructure
+Converted Toyota Prius plug-in hybrids recharging at San Francisco City Hall charging station.
+See also: Charging station and Range anxiety
+
+Despite the widespread assumption that plug-in recharging will take place overnight at home, residents of cities, apartments, dormitories, and townhouses do not have garages or driveways with available power outlets, and they might be less likely to buy plug-in electric vehicles unless recharging infrastructure is developed.[117][118] Electrical outlets or charging stations near their places of residence, in commercial or public parking lots, streets and workplaces are required for these potential users to gain the full advantage of PHEVs, and in the case of EVs, to avoid the fear of the batteries running out energy before reaching their destination, commonly called range anxiety.[118][119] Even house dwellers might need to charge at the office or to take advantage of opportunity charging at shopping centers.[120] However, this infrastructure is not in place and it will require investments by both the private and public sectors.[119]
+
+Several cities in California and Oregon, and particularly San Francisco and other cities in the San Francisco Bay Area and Silicon Valley, already have deployed public charging stations and have expansion plans to attend both plug-ins and all-electric cars.[119] Some local private firms such as Google and Adobe Systems have also deployed charging infrastructure. In Google's case, its Mountain View campus has 100 available charging stations for its share-use fleet of converted plug-ins available to its employees.[119][121] Solar panels are used to generate the electricity, and this pilot program is being monitored on a daily basis and performance results are published on the RechargeIT website.[121] As of December 2013, Estonia is the first and only country that had deployed an EV charging network with nationwide coverage, with 165 fast chargers available along highways at a minimum distance of between 40 to 60 km (25 to 37 mi), and a higher density in urban areas.[122][123][124]
+Battery swapping
+See also: Battery swapping, Better Place and Tesla supercharger
+Better Place's battery switching station in Israel
+
+A different approach to resolve the problems of range anxiety and lack of recharging infrastructure for electric vehicles was developed by Better Place. Its business model considers that electric cars are built and sold separately from the battery pack. As customers are not allowed to purchase battery packs, they must lease them from Better Place which will deploy a network of battery swapping stations thus expanding EVs range and allowing long distance trips. Subscribed users pay a per-distance fee to cover battery pack leasing, charging and swap infrastructure, the cost of sustainable electricity, and other costs.[125][126] Better Place signed agreement for deployment in Australia, Denmark, Israel, Canada, California, and Hawaii.[127] The Renault Fluence Z.E. was the electric car built with switchable battery technology sold for the Better Place network.[128] The robotic battery-switching operation was completed in about five minutes.[129]
+
+After implementing the first modern commercial deployment of the battery swapping model in Israel and Denmark, Better Place filed for bankruptcy in Israel in May 2013. The company's financial difficulties were caused by the high investment required to develop the charging and swapping infrastructure, about US$850 million in private capital, and a market penetration significantly lower than originally predicted by Shai Agassi. Less than 1,000 Fluence Z.E. cars were deployed in Israel and around 400 units in Denmark.[130][131]
+
+Tesla Motors designed its Model S to allow fast battery swapping.[132] In June 2013, Tesla announced their goal to deploy a battery swapping station in each of its supercharging stations. At a demonstration event Tesla showed that a battery swap operation with the Model S takes just over 90 seconds, about half the time it takes to refill a gasoline-powered car used for comparison purposes during the event.[133][134] The first stations are planned to be deployed along Interstate 5 in California where, according to Tesla, a large number of Model S sedans make the San Francisco-Los Angeles trip regularly. These will be followed by the Washington, DC to Boston corridor.[133]
+Other charging solutions
+Roof-mounted solar panels of the REVA NXR concept car.
+Nissan Leaf SV roof-mounted solar panel.
+
+The REVA NXR exhibited in the 2009 Frankfurt Motor Show and the Nissan Leaf SV trim both have roof-mounted solar panels. These solar panels are designed to trickle charge the batteries when the car is moving or parked.[135][136][137] Another proposed technology is REVive, by REVA. When the REVA NXR's batteries are running low or are fully depleted, the driver is able to send an SMS to REVive and unlock a hidden reserve in the battery pack. REVA has not provided details on how the system will work.[138][139] The Fisker Karma uses solar panel in the roof to recharge the 12-volt lead-acid accessory battery.[140] The Nissan Leaf SL trim also has a small solar panel at the rear of the roof/spoiler that can trickle charge the auxiliary 12-volt lead-acid battery.[141]
+Potential overload of the electrical grid
+
+The existing electrical grid, and local transformers in particular, may not have enough capacity to handle the additional power load that might be required in certain areas with high plug-in electric car concentrations. As recharging a single electric-drive car could consume three times as much electricity as a typical home, overloading problems may arise when several vehicles in the same neighborhood recharge at the same time, or during the normal summer peak loads. To avoid such problems, utility executives recommend owners to charge their vehicles overnight when the grid load is lower or to use smarter electric meters that help control demand. When market penetration of plug-in electric vehicles begins to reach significant levels, utilities will have to invest in improvements for local electrical grids in order to handle the additional loads related to recharging to avoid blackouts due to grid overload. Also, some experts have suggested that by implementing variable time-of-day rates, utilities can provide an incentive for plug-in owners to recharge mostly overnight, when rates are lower.[119][142]
+
+General Motors is sponsoring the Pecan Street demonstration project in Austin, Texas. The project objective is to learn the charging patterns of plug-in electric car owners, and to study how a residential fleet of electric vehicles might strain the electric grid if all owners try to charge them at the same, which is what the preliminary monitoring found when the plug-in cars return home in the evening. The Mueller neighborhood is the test ground, and as of June 2013, the community has nearly 60 Chevrolet Volt owners alone. This cluster of Volts was achieved thanks to GM's commitment to match the federal government's $7,500 rebate incentive, which effectively halves the purchase price of the plug-hybrid electric cars.[143]
+Risks associated with noise reduction
+Main article: Electric vehicle warning sounds
+
+Electric cars and plug-in hybrids when operating in all-electric mode at low speeds produce less roadway noise as compared to vehicles propelled by an internal combustion engine, thereby reducing harmful noise health effects. However, blind people or the visually impaired consider the noise of combustion engines a helpful aid while crossing streets, hence plug-in electric cars and conventional hybrids could pose an unexpected hazard when operating at low speeds.[144][145]
+The 2011 Nissan Leaf had a switch to manually turn off its electric warning sound system.
+
+Several tests conducted in the U.S. have shown that this is a valid concern, as vehicles operating in electric mode can be particularly hard to hear below 20 mph (30 km/h) for all types of road users and not only the visually impaired.[146][147][148] At higher speeds the sound created by tire friction and the air displaced by the vehicle start to make sufficient audible noise.[145] However, a 2011 study, commissioned by the UK Department for Transport (DfT) and conducted by the Transport Research Laboratory, found little correlation between pedestrian vehicle involvement density and noise level for the majority of vehicles. In addition, the analysis found no evidence of a pattern in pedestrian vehicle involvement densities when only considering those accidents occurring on 30 mph (48 km/h) or slower roads, or where the pedestrian was disabled. A previous study did not found an increased pedestrian vehicle involvement density for electric and hybrid vehicles with respect to their conventional counterparts which raised the question as to whether added sound is necessarily required.[149]
+
+Some carmakers announced they have decided to address this safety issue, and as a result, the new Nissan Leaf electric car and Chevrolet Volt plug-in hybrid, both launched in December 2010, as well as the Fisker Karma plug-in hybrid launched in 2011 launched in 2012, include electric warning sounds to alert pedestrians, the blind and others to their presence.[150][151][152][153][154] As of January 2014, most of the hybrids and plug-in electric and hybrids available in the United States, Japan and Europe make warning noises using a speaker system. The Tesla Model S is one of the few electric cars without warning sounds, because Tesla Motors will await until regulations are enacted.[155] Volkswagen and BMW also decided to add artificial sounds to their electric drive cars only when required by regulation.[156]
+
+The Japanese Ministry of Land, Infrastructure, Transport and Tourism issued guidelines for hybrid and other near-silent vehicles in January 2010.[157] In the United States the Pedestrian Safety Enhancement Act of 2010 was approved by the U.S. Senate and the House of Representatives in December 2010.[158][159][160] The act does not stipulate a specific speed for the simulated noise but requires the U.S. Department of Transportation to study and establish a motor vehicle safety standard that would set requirements for an alert sound.[158][161] A proposed rule was published for comment by the National Highway Traffic Safety Administration (NHTSA) in January, 2013. It would require hybrids and electric vehicles traveling at less than 18.6 miles per hour (30 km/h) to emit warning sounds that pedestrians must be able to hear over background noises. According to the NHTSA proposal carmakers would be able to pick the sounds the vehicles make from a range of choices, and similar vehicles would have to make the same sounds. The rules were scheduled to go into effect in September 2014.[162][163] However, in January 2015 the NHTSA rescheduled the date for a final ruling to the end of 2015. Since the regulation comes into force three years after being rendered as a final rule, compliance was delayed to 2018.[164]
+
+On 6 February 2013, the European Parliament approved a draft law to tighten noise limits for cars to protect public health, and also to add alerting sounds to ensure the audibility of hybrid and electric vehicles to improve the safety of vulnerable road users in urban areas, such as blind, visually and auditorily challenged pedestrians, cyclists and children. The draft legislation states a number of tests, standards and measures that must first be developed for an Acoustic Vehicle Alerting Systems (AVAS) to be compulsory in the future.[165][166] The approved amendment establishes that the sound to be generated by the AVAS should be a continuous sound and should be easily indicative of vehicle behavior and should sound similar to the sound of a vehicle of the same category equipped with an internal combustion engine."[166] In April 2014 the European Parliament approved legislation that requires the mandatory use of the AVAS for all new electric and hybrid electric vehicles and car manufacturers have to comply within 5 years.[167][168]
+Risks of battery fire
+Main article: Plug-in electric vehicle fire incidents
+Frontal crash test of a Volvo C30 DRIVe Electric to assess the safety of the battery pack.
+
+Lithium-ion batteries may suffer thermal runaway and cell rupture if overheated or overcharged, and in extreme cases this can lead to combustion.[169] To reduce these risks, lithium-ion battery packs contain fail-safe circuitry that shuts down the battery when its voltage is outside the safe range.[170][171] When handled improperly, or if manufactured defectively, some rechargeable batteries can experience thermal runaway resulting in overheating. Especially prone to thermal runaway are lithium-ion batteries. Reports of exploding cellphones have been reported in newspapers. In 2006, batteries from Apple, HP, Toshiba, Lenovo, Dell and other notebook manufacturers were recalled because of fire and explosions.[172][173][174][175] Also, during the Boeing 787 Dreamliner's first year of service, at least four aircraft suffered from electrical system problems stemming from its lithium-ion batteries, resulting in the whole Dreamliner fleet being voluntarily grounded in January 2013.[176][177]
+
+Several plug-in electric vehicle fire incidents have taken place since the introduction of mass-production plug-in electric vehicles in 2008. Most of them have been thermal runaway incidents related to the lithium-ion batteries and have involved the Zotye M300 EV, Chevrolet Volt, Fisker Karma, BYD e6, Dodge Ram 1500 Plug-in Hybrid, Toyota Prius Plug-in Hybrid, Mitsubishi i-MiEV and Outlander P-HEV. As of November 2013, four fires after a crash have been reported associated with the batteries of all-electric cars involving a BYD e6 and three Tesla Model S cars.
+
+The first modern crash-related fire was reported in China in May 2012, after a high-speed car crashed into a BYD e6 taxi in Shenzhen.[178] The second reported incident occurred in the United States in October 1, 2013, when a Tesla Model S caught fire after the electric car hit metal debris on a highway in Kent, Washington state, and the debris punctured one of 16 modules within the battery pack.[179][180] A second reported fire occurred on October 18, 2013 in Merida, Mexico. In this case the vehicle was being driven at high speed through a roundabout and crashed through a wall and into a tree. On November 6, 2013, a Tesla Model S being driven on Interstate 24 near Murfreesboro, Tennessee caught fire after it struck a tow hitch on the roadway, causing damage beneath the vehicle.[181]
+
+The U.S. National Highway Traffic Safety Administration (NHTSA) is conducting a study due in 2014 to establish whether lithium-ion batteries in plug-electric vehicles pose a potential fire hazard. The research is looking at whether the high-voltage batteries can cause fires when they are being charged and when the vehicles are involved in an accident.[182] Both General Motors and Nissan have published a guide for firefighters and first responders to properly handle a crashed plug-in electric-drive vehicle and safely disable its battery and other high voltage systems.[183][184]
+Rare earth metals availability and supply security
+
+Common technology for plug-ins and electric cars is based on the lithium-ion battery and an electric motor which uses rare earth elements. The demand for lithium, heavy metals, and other specific elements (such as neodymium, boron and cobalt) required for the batteries and powertrain is expected to grow significantly due to the future sales increase of plug-in electric vehicles in the mid and long term.[185][186] The Toyota Prius battery contains more than 20 pounds (9.1 kg) of the rare earth element lanthanum,[187] and its motor magnets use neodymium and dysprosium.[188]
+
+Some of the largest world reserves of lithium and other rare metals are located in countries with strong resource nationalism, unstable governments or hostility to U.S. interests, raising concerns about the risk of replacing dependence on foreign oil with a new dependence on hostile countries to supply strategic materials.[185][186][189][190]
+
+Lithium
+
+The Salar de Uyuni in Bolivia is one of the largest known lithium reserves in the world.[189][191]
+
+The main deposits of lithium are found in China and throughout the Andes mountain chain in South America. In 2008 Chile was the leading lithium metal producer with almost 30%, followed by China, Argentina, and Australia.[186][192] In the United States lithium is recovered from brine pools in Nevada.[193][194]
+
+Nearly half the world's known reserves are located in Bolivia,[186][189] and according to the US Geological Survey, Bolivia's Salar de Uyuni desert has 5.4 million tons of lithium.[189][193] Other important reserves are located in Chile, China, and Brazil.[186][193] Since 2006 the Bolivian government have nationalized oil and gas projects and is keeping a tight control over mining its lithium reserves. Already the Japanese and South Korean governments, as well as companies from these two countries and France, have offered technical assistance to develop Bolivia's lithium reserves and are seeking to gain access to the lithium resources through a mining and industrialization model suitable to Bolivian interests.[189][195][196]
+
+According to a 2011 study conducted at Lawrence Berkeley National Laboratory and the University of California Berkeley, the currently estimated reserve base of lithium should not be a limiting factor for large-scale battery production for electric vehicles, as the study estimated that on the order of 1 billion 40 kWh Li-based batteries could be built with current reserves, as estimated by the U.S. Geological Survey.[197] Another 2011 study by researchers from the University of Michigan and Ford Motor Company found that there are sufficient lithium resources to support global demand until 2100, including the lithium required for the potential widespread use of hybrid electric, plug-in hybrid electric and battery electric vehicles. The study estimated global lithium reserves at 39 million tons, and total demand for lithium during the 90-year period analyzed at 12-20 million tons, depending on the scenarios regarding economic growth and recycling rates.[198]
+
+Rare earth elements
+
+China has 48% of the world's reserves of rare earth elements, the United States has 13%, and Russia, Australia, and Canada have significant deposits. Until the 1980s, the U.S. led the world in rare earth production, but since the mid-1990s China has controlled the world market for these elements. The mines in Bayan Obo near Baotou, Inner Mongolia, are currently the largest source of rare earth metals and are 80% of China's production. In 2010 China accounted for 97% of the global production of 17 rare earth elements.[187] Since 2006 the Chinese government has been imposing export quotas reducing supply at a rate of 5% to 10% a year.[190][199][200]
+
+Prices of several rare earth elements increased sharply by mid-2010 as China imposed a 40% export reduction, citing environmental concerns as the reason for the export restrictions. These quotas have been interpreted as an attempt to control the supply of rare earths. However, the high prices have provided an incentive to begin or reactivate several rare earth mining projects around the world, including the United States, Australia, Vietnam, and Kazakhstan.[199][200][201][202]
+Evolution of global rare earth oxides production by country (1950-2000)
+
+In September 2010, China temporarily blocked all exports of rare earths to Japan in the midst of a diplomatic dispute between the two countries. These minerals are used in hybrid cars and other products such wind turbines and guided missiles, thereby augmenting the worries about the dependence on Chinese rare earth elements and the need for geographic diversity of supply.[200][203] A December 2010 report published by the US DoE found that the American economy vulnerable to rare earth shortages and estimates that it could take 15 years to overcome dependence on Chinese supplies.[204][205] China raised export taxes for some rare earths from 15 to 25%, and also extended taxes to exports of some rare earth alloys that were not taxed before. The Chinese government also announced further reductions on its export quotas for the first months of 2011, which represent a 35% reduction in tonnage as compared to exports during the first half of 2010.[206]
+
+On September 29, 2010, the U.S. House of Representatives approved the Rare Earths and Critical Materials Revitalization Act of 2010 (H.R.6160).[207][208] The approved legislation is aimed at restoring the U.S. as a leading producer of rare earth elements, and would support activities in the U.S. Department of Energy (US DoE) to discover and develop rare earth sites inside of the U.S. in an effort to reduce the auto industry's near-complete dependence on China for the minerals.[208][209] A similar bill, the Rare Earths Supply Technology and Resources Transformation Act of 2010 (S. 3521), is being discussed in the U.S. Senate.[208][210]
+
+In order to avoid its dependence on rare earth minerals, Toyota Motor Corporation announced in January 2011 that it is developing an alternative motor for future hybrid and electric cars that does not need rare earth materials. Toyota engineers in Japan and the U.S. are developing an induction motor that is lighter and more efficient than the magnet-type motor used in the Prius, which uses two rare earths in its motor magnets. Other popular hybrids and plug-in electric cars in the market that use these rare earth elements are the Nissan Leaf, the Chevrolet Volt and Honda Insight. For its second generation RAV4 EV due in 2012, Toyota is using an induction motor supplied by Tesla Motors that does not require rare earth materials. The Tesla Roadster and the Tesla Model S use a similar motor.[188]
+Government incentives
+Main article: Government incentives for plug-in electric vehicles
+
+Several national and local governments around the world have established tax credits, grants and other financial and non-financial incentives for consumers to purchase a plug-in electric vehicle as a policy to promote the introduction and mass market adoption of this type of vehicles.
+Asia
+The Nissan Leaf electric car is eligible for government incentives for plug-in electric vehicles in Japan, the United States and several European countries.
+
+Japan
+
+In May 2009 the Japanese Diet passed the "Green Vehicle Purchasing Promotion Measure" that went into effect on June 19, 2009, but retroactive to April 10, 2009.[211] The program established tax deductions and exemptions for environmentally friendly and fuel efficient vehicles, according to a set of stipulated environmental performance criteria, and the requirements are applied equally to both foreign and domestically produced vehicles. The program provides purchasing subsidies for two type of cases, consumers purchasing a new passenger car without trade-in (non-replacement program), and for those consumers buying a new car trading an used car registered 13 years ago or earlier (scrappage program).[211][212]
+
+China
+
+On June 1, 2010, The Chinese government announced a trial program to provide incentives up to 60,000 yuan (~US$8,785) for private purchase of new battery electric vehicles and 50,000 yuan (~US$7,320) for plug-in hybrids in five cities.[213][214]
+Europe
+
+As of April 2010, 17 of the 27 European Union member states provide tax incentives for electrically chargeable vehicles. The incentives consist of tax reductions and exemptions, as well as of bonus payments for buyers of PEVs and hybrid vehicles.[19][215] In the UK the Plug-in Car Grant scheme provides a 25% incentive towards the cost of new plug-in electric cars that qualify as ultra-low carbon vehicles, but the benefit is capped at £5,000 (US$7,800).[216] Both private and business fleet buyers are eligible for the government grant.[217]
+North America
+
+United States
+
+See also: Government incentives for plug-in electric vehicles in the U.S.
+See also: Government incentives for plug-in electric vehicles in California
+
+In the United States the Energy Improvement and Extension Act of 2008, and later the American Clean Energy and Security Act of 2009 (ACES) granted tax credits for new qualified plug-in electric vehicles.[17] The American Recovery and Reinvestment Act of 2009 (ARRA) also authorized federal tax credits for converted plug-ins, though the credit is lower than for new PEVs.[18]
+
+The federal tax credit for new plug-in electric vehicles is worth $2,500 plus $417 for each kilowatt-hour of battery capacity over 5 kWh, and the portion of the credit determined by battery capacity cannot exceed $5,000. Therefore, the total amount of the credit allowed for a new PEV is $7,500.[17] Several states have established incentives and tax exemptions for BEVs and PHEV, and other non-monetary incentives.
+Fleet of Chevrolet Volts at a solar-powered charging station in Toronto. The plug-in hybrid is eligible for rebates or tax credits in the United States, the UK, several European countries and several Canadian provinces.
+
+President Barack Obama set the goal of bringing 1 million plug-in electric vehicles on the road by 2015.[218][219] However, considering the actual slow rate of PEV sales, as of mid-2012 several industry observers have concluded that this goal is unattainable.[220][221][222] In September 2014 Governor of California Jerry Brown signed a bill, the Charge Ahead California Initiative, that sets a goal of placing at least 1 million zero-emission vehicles and near-zero-emission vehicles on the road in California by January 1, 2023.[223]
+
+Canada
+
+See also: Government incentives for plug-in electric vehicles in Canada
+
+Ontario established a rebate between CA$5,000 to CA$8,500 (~US$4,900 to US$8,320), depending on battery size, for purchasing or leasing a new plug-in electric vehicle after July 1, 2010. The rebates are available to the first 10,000 applicants who qualify.[224]
+
+Quebec offers rebates of up to CA$8,500 (US$8,485) from January 1, 2012, for the purchase of new plug-in electric vehicles equipped with a minimum of 4 kWh battery, and new hybrid electric vehicles are eligible for a CA$1,000 rebate. All-electric vehicles with high-capacity battery packs are eligible for the full C$8,000 rebate, and incentives are reduced for low-range electric cars and plug-in hybrids.[225][226]
+Production plug-in electric vehicles available
+See also: List of modern production plug-in electric vehicles and electric car use by country
+Several electric cars charging in downtown Toronto. From farthest to closest, a Nissan Leaf, a Smart ED, and a Mitsubishi i MiEV.
+
+During the 1990s several highway-capable plug-in electric cars were produced in limited quantities, all were battery electric vehicles, and they were available through leasing mainly in California. Popular models included the General Motors EV1 and the Toyota RAV4 EV. Some of the latter were sold to the public and are in use still today.[227] In the late 2000s began a new wave of mass production plug-in electric cars, motorcycles and light trucks. However, as of 2011, most electric vehicles in the world roads were low-speed, low-range neighborhood electric vehicles (NEVs) or electric quadricycles. Pike Research estimated there were almost 479,000 NEVs on the world roads in 2011.[228] Just in China, a total of 200,000 low-speed small electric cars were sold in 2013, most of which are powered by lead-acid batteries.[229] As of mid 2014, the GEM neighborhood electric vehicle is the market leader in North America, with global sales of more than 50,000 units since 1998.[230]
+
+As of April 2015, there are over 55 models of highway-capable plug-in electric passenger cars and light-utility vans available mainly in the United States, Japan, Western European countries and China.[231] There are also available several commercial models of plug-in motorcycles and all-electric buses and trucks. As of December 2014, the Renault-Nissan Alliance is the leading electric vehicle manufacturer with global sales of 217,365 all-electric vehicles delivered up until December 2014, representing a 56% share of the global light-duty all-electric market segment.[232] Ranking second is General Motors with combined global sales since December 2010 of over 91,000 vehicles through December 2014, consisting of over 88,000 plug-in hybrids of the Volt/Ampera family, 1,714 Chevrolet Spark EVs and 1,364 Cadillac ELRs.[233][234][235] Mitsubishi Motors ranks third, with global sales of more than 87,000 plug-in electric vehicles since 2009 through December 2014, consisting of over 38,000 all-electric vehicles, 32,000 cars of the Mitsubishi i-MiEV family and over 6,291 Mitsubishi Minicab MiEV utility vans and trucks,[236][237] and about 49,000 Outlander plug-in hybrids.[233][236]
+Sales and main markets
+Market share of 2012 global sales
+of highway-capable BEVs and PHEVs by country[238]
+All-electric cars 	Plug-in hybrid cars
+Ranking 	Country 	Market
+share(1) 	Ranking 	Country 	Market
+share(1)
+1 	 Japan 	28% 	1 	 United States 	70%
+2 	 United States 	26% 	2 	 Japan 	12%
+3 	 China 	16% 	3 	 Netherlands 	8%
+4 	 France 	11% 	4 	 Canada 	2%
+5 	 Norway 	7% 	5 	 China 	2%
+Note: (1) Market share as % total global sales of pure electric cars or plug-in hybrids.
+
+As of June 2015, the global stock of highway legal plug-in electric passenger cars and utility vans was over 900,000 units.[6] When global sales are broken down by type of powertrain, all-electric cars have oversold plug-in hybrids, with the pure electrics capturing 59% of global sales as of September 2014.[239] Between 2007 and 2010, only 11,768 plug-in electric vehicles were sold worldwide.[240] By comparison, during the Golden Age of the electric car at the beginning of the 20th century, the EV stock peaked at approximately 30,000 vehicles.[241]
+
+After the introduction of the Nissan Leaf and the Chevrolet Volt in December 2010, the first mass-production plug-in cars by major carmakers, PEV sales jumped in 2011 to 45,000 units,[242] increased to 119,300 in 2012,[243][244] and reached 206,000 plug-in electric cars and utility vans in 2013.[242] Sales rose to over 307,000 units in 2014, up about 50% from 2013.[7][242] Frost & Sullivan forecasted that over 480,000 plug-in electric vehicles will be sold globally in 2015, with Europe and China predicted to be the fastest growing markets.[245] Euromonitor International estimates that about 430,000 plug-in electric vehicles will be sold in 2015, and forecasted that the plug-in electric vehicle fleet will pass over 1.13 million units at the end of 2015.[246]
+Cumulative sales of new PEVs are doing better than sales of HEVs in the U.S. over their respective 24 month introductory periods.[247]
+
+As of June 2015, cumulative sales by country are led by the United States with over 345,000 units delivered since 2008, representing 38% of global sales.[6] As of December 2014, Japan ranked second with about 108,000 units sold since 2009 (15%), followed by China with more than 83,000 plug-in passenger cars sold since 2008 (12%).[7][8] Since 2010, over 228,000 light-duty plug-in electric vehicles have been registered in the European market as of December 2014, representing 32% of global sales.[9][10][11][12][13][14] As of December 2014, European sales are led by the Netherlands with 45,020 light-duty plug-in vehicles registered (6.3%),[15] followed by France with 43,605 all-electric cars and light utility vans sold since 2010 (6.1%), Norway with over 43,442 plug-in electric vehicles registered (6.8%).[7] Other top selling countries are Germany with over 25,000 units registered (3.5%),[248][249] the UK with over 24,500 units (3.4%),[250] Canada with 10,658 plug-in cars sold since 2011 (1.5%),[251] and Sweden with 8,076 (1.1%).[252][253] In the heavy-duty segment, China is the world's leader, with about 36,500 all-electric buses sold through December 2014.[8]
+
+Sales of series production PEVs during its first two years in the global market have been lower than initially expected in all countries.[254][255] However, an analysis by Scientific American found that at the international level and considering the global top selling PEVs over a 36-month introductory period, monthly sales of the Volt, Prius PHV and Leaf are performing better than the conventional Prius during their respective introductory periods, with the exception of the Mitsubishi i-MiEV, which has been outsold most of the time by the Prius HEV over their 36-month introductory periods.[256] A similar trend was found by the U.S. Department of Energy for the American market. Combined sales of plug-in hybrids and battery electric cars are climbing more rapidly and outselling by more than double sales of hybrid-electric vehicles over their respective 24 month introductory periods, as shown in the graph at the left.[247]
+
+During 2014, four of the ten top selling countries achieved plug-in electric car sales with a market share higher than 1% of new car sales, Norway (13.84%), the Netherlands (3.87%), Sweden (1.53%), and Japan (1.06%).[7][257] Also two small countries achieved this mark in 2014, Iceland (2.71%)[258] and Estonia (1.57%).[258] The following table presents the top ranking countries according to their PEV market share of total new car sales in 2014. The table also shows the corresponding market share for 2013 for the overall segment, and for each of the following segments: all-electric (BEV), and plug-in hybrid (PHEV).
+Top 10 countries by PEV market share
+of total new car sales in 2014 and 2013 	Top 10 countries by plug-in electric-drive segment in 2013(1)
+Ranking 	Country 	PEV
+market
+share(%) 	Ranking 	Country 	BEV
+market
+share(%)
+2013[259] 	Ranking 	Country 	PHEV
+market
+share(%)
+2013[259]
+2014[7] 	2013[259]
+1 	 Norway 	13.84% 	6.10% 	1 	 Norway 	5.75% 	1 	 Netherlands 	4.72%
+2 	 Netherlands 	3.87% 	5.55% 	2 	 Netherlands 	0.83% 	2 	 Sweden 	0.41%
+3 	 Iceland[258] 	2.71% 	0.94% 	3 	 France 	0.79% 	3 	 Japan 	0.40%
+4 	 Estonia[258] 	1.57% 	0.73% 	4 	 Estonia 	0.73% 	4 	 Norway 	0.34%
+5 	 Sweden[257] 	1.53% 	0.71% 	5 	 Iceland 	0.69% 	5 	 United States 	0.31%
+6 	 Japan 	1.06% 	0.91% 	6 	 Japan 	0.51% 	6 	 Iceland 	0.25%
+7 	 Denmark[260] 	0.88% 	0.29% 	7 	  Switzerland 	0.39% 	7 	 Finland 	0.13%
+8 	  Switzerland[261] 	0.75% 	0.44% 	8 	 Sweden 	0.30% 	8 	 United Kingdom 	0.05%
+9 	 United States 	0.72% 	0.60% 	9 	 Denmark 	0.28% 	9 	 France 	0.05%
+10 	 France 	0.70%(2) 	0.83% 	10 	 United States 	0.28% 	10 	  Switzerland 	0.05%
+Note: (1) Market share of highway-capable plug-in electric-drive vehicles in the corresponding segment as percentage of total new car sales in the country in 2013.
+(2) The French market share corresponds to all-electric passenger cars and utility vans only. In France PHEVs are accounted together with regular hybrids.
+
+Several countries experienced a rapid growth of their plug-in car market during 2014. Total sales of new energy vehicles in China, including heavy-duty vehicles, were up 320% year-on-year, and the plug-in hybrids segment experience a faster growth, up 880% from 2013.[262] The British market experienced a surge of plug-in car sales during 2014. Plug-in electric car registrations in the UK quadruple from 3,586 in 2013 to 14,498 units in 2014. Registrations in the plug-in hybrid segment were up 628% from 2013.[263][264][265] Registrations of plug-in super clean cars in Sweden in 2014 were up 202.1% from 2013.[257] Registrations of light-duty plug-in electric vehicles in Norway, including used imports, were up 119.9% from a year earlier, and sales of plug-in hybrids were up 411.6% from 2013.[266] The plug-in hybrid segment in the German market in 2014 experienced a growth of 226.9% year-over-year, and the overall plug-in segment increased 75.5% from a year earlier.[248][267]
+United States
+Main article: Plug-in electric vehicles in the United States
+U.S. plug-in electric vehicle cumulative sales by month by type of powertrain from December 2010 up to June 2015.[268][269] Cumulative plug-in electric car sales since 2008 passed the 300,000 unit milestone in January 2015.[270]
+
+As of December 2014, the United States has the largest fleet of plug-in electric vehicles in the world, with 291,322 highway-capable plug-in electric cars sold since the market launch of the Tesla Roadster in 2008.[7] California is the largest regional market with 102,440 units sold through August 2014, representing about 40% of all plug-in cars sold in the country at that time.[271] As of August 2014, California not only had more plug-in electric vehicles than any other American state but also more than any other country.[272][273] Nationwide sales climbed from 17,800 units delivered in 2011 to 53,200 during 2012, and reached 97,100 in 2013, up 83% from the previous year.[274] Cumulative plug-in electric car sales since 2008 reached the 250,000 unit milestone in August 2014.[271] During 2014 plug-in electric car sales totaled 118,682 units, up 22.2% from 2013.[234] The market share of plug-in electric passenger cars increased from 0.14% of new car sales in 2011 to 0.37% in 2012, 0.62% in 2013, and reached 0.72% of new car sales during 2014.[234][275][276]
+The Chevrolet Volt was the top selling highway-capable plug-in electric car in the United States, with 73,357 units sold through December 2014.[277]
+
+As of mid 2013, 52% of American plug-in electric car registrations were concentrated in five metropolitan areas: San Francisco, Los Angeles, Seattle, New York and Atlanta.[278] As of December 2014, cumulative sales of plug-in electric vehicles in the U.S. since December 2010 are led by plug-in hybrids, with 150,946 units sold representing 52.7% of all plug-in car sales, while 135,444 all-electric cars (47.3%) have been delivered to retail customers.[279]
+
+As of December 2014, plug-in electric car sales are led by the Chevrolet Volt plug-in hybrid with 73,357 units sold, followed by the Nissan Leaf electric car with 73,322 units. Both plug-in cars were released in December 2010.[277] Launched in the U.S. market in February 2012, the Prius PHV ranks as the third top selling plug-in electric car with 38,102 units, followed by the Tesla Model S, launched in June 2012, with about 37,100 units sold through December 2014.[234][275][280][281]
+
+Plug-in electric car sales in 2014 were led by the Nissan Leaf with 30,200 units, followed the Volt with 18,805, the Model S with an estimated 16,550 units, the Prius PHEV with 13,264 units, and the Fusion Energi with 11,550 units.[234] The best monthly PEV sales volume on record ever was achieved in May 2014, with over 12,000 units delivered, representing a market share of 0.78% of new car sales.[282][283] October 2013 achieved the best-ever market share for plug-in vehicles at 0.85% of new car sales.[284]
+Japan
+Main article: Plug-in electric vehicles in Japan
+The Nissan Leaf is the top selling plug-in electric vehicle in Japan.
+
+As of December 2014, the stock of light-duty plug-in electric vehicles in Japan is the second largest in the world after the United States, with 108,248 highway legal plug-in electric vehicles sold in the country since 2009.[8] During 2012, global sales of pure electric cars were led by Japan with a 28% market share of total sales, followed by the United States with a 26% share. Japan ranked second after the U.S. in terms of its share of plug-in hybrid sales in 2012, with a 12% of global sales.[238] A total of 30.587 highway-capable plug-in electric vehicles were sold in Japan in 2013.[7] In 2014 the segment sales remained flat with 30,390 units sold, and a market share of 1.06% of total new car sales in the country (kei cars not included).[7]
+
+As of December 2014, the Nissan Leaf is the market leader with 48,641 units sold since December 2010,[232] followed by the Mitsubishi Outlander P-HEV with 19,672 units sold since January 2013.[236] The Prius PHV has sold 19,100 units between January 2012 and September 2014,[285] and the Mitsubishi i-MiEV, launched for fleet customers in Japan in late July 2009, with cumulative sales of 10,423 i-MiEVs through September 2014.[236][286] Combined sales of the van and truck version of the Mitsubishi Minicab MiEV reached 6,291 units through December 2014.[236] Other models available in Japan are the Honda Accord Plug-in Hybrid, Tesla Model S, BMW i3, BMW i8, and the Nissan e-NV200, but official sales figures are not available.[287]
+
+During 2013 sales were led by the Nissan Leaf with 13,021 units, followed by the Outlander P-HEV with 9,608 units.[236][288][289] The Leaf continued as the market leader in 2014 with 14,177 units sold,[290] followed by the Outlander P-HEV with 10,064 units,[236] together representing about 80% of the plug-in segment sales in Japan in 2014 (30,390).[287]
+China
+Further information: New energy vehicles in China
+Sales of new energy vehicles in China by year between 2011 and 2014.[229][262][291][292]
+
+As of December 2014, the stock of new energy vehicles in China consisted of 83,198 highway legal plug-in electric passenger cars, and about 36,500 all-electric buses, making the country the world's leader in the plug-in heavy-duty segment.[8][293] The country also has deployed a significant number of plug-in heavy-duty trucks, particularly sanitation/garbage trucks.[293] Accounting for new energy vehicle sales between January 2011 and December 2014, a total of 113,355 units were sold in the country, of which, 74,763 units were sold in 2014, including all-electric buses and sanitation trucks.[229][262][291][292] The share of all-electric bus sales in the Chinese bus market climbed from 2% in 2010 to 9.9% in 2012, and is expected to be closed to 20% for 2013.[294] As of December 2014, China ranks third after the U.S. and Japan, with 12% of the global stock of highway-capable plug-in electric passenger cars.[8]
+
+A total of 8,159 new energy vehicles were sold in China during 2011, including passenger cars (61%) and buses (28%). Of these, 5,579 units were all-electric vehicles and 2,580 plug-in hybrids.[291] Electric vehicle sales represented 0.04% of total new car sales in 2011.[295] Sales of new energy vehicles in 2012 reached 12,791 units, which includes 11,375 all-electric vehicles and 1,416 plug-in hybrids.[292] New energy vehicle sales in 2012 represented 0.07% of the country's total new car sales.[296]
+The BYD Qin plug-in hybrid was the top selling new energy vehicle in China during 2014.[297]
+
+During 2013 new energy vehicle sales totaled 17,642 units, up 37.9% from 2012 and representing 0.08% of the nearly 22 million new car sold in the country in 2013. Deliveries included 14,604 pure electric vehicles and 3,038 plug-in hybrids. In addition, a total of 200,000 low-speed small electric cars were sold in 2013, most of which are powered by lead-acid batteries and not accounted by the government as new energy vehicles due to safety and environmental concerns.[229][298] New energy vehicle sales during 2014 reached 74,763 units, up 320% from 2013, and representing a market share of 0.32% of the 23.5 million new car sales sold in the country that year.[262] Of these, 71% were passenger cars, 27% buses, and 1% trucks.[297] A total of 45,048 all-electric vehicles were sold in 2014, up 210% from a year earlier, and 29,715 plug-in hybrids, up 880% from 2013.[262]
+
+The QQ3 EV was the top selling new energy car in China between 2011 and 2013, with 2,167 units sold in 2011, 3,129 in 2012, and 5,727 in 2013.[293] Cumulative sales since January 2011 through March 2014 reached 13,039 units.[293][299] The BYD Qin plug-in hybrid, introduced in December 2013, ranked as the top selling plug-in electric car in China in 2014, with 14,747 units sold, followed by the all-electrics Zotye Zhidou E20, with 7,341 units, and BAIC E150 EV, with 5,234.[297]
+Europe
+For more details of European and other countries, see electric car use by country.
+Annual sales of light-duty plug-in electric vehicles in Europe
+by type of powertrain (2011-2014)
+Year 	Total BEV
+sales(1) 	Growth
+(BEVs) 	Total
+PHEV
+sales 	Growth
+(PHEVs) 	Total PEV
+sales(2) 	Growth
+(PEVs) 	PEV
+market
+share(3)
+2010 	2,919[9] 	- 	0 	- 	2,919 	- 	0.01%[300]
+2011 	13,779[9] 	372.0% 	304[10] 	- 	14,083 	382.5% 	0.08%[301]
+2012 	24,713[11] 	79.4% 	9,620[10][12] 	3,064% 	34,333 	143.8% 	0.23%[302]
+2013 	40,496[11] 	63.9% 	31,447[13] 	226.9% 	71,943 	109.5% 	0.53%[303]
+2014 	65,199[14] 	61.0% 	39,547[13] 	25,8% 	104,746 	45.6% 	0.75% [304]
+Total 	147,106 	- 	80,918 	- 	228,024 	- 	-
+Notes: (1) Battery electric vehicles (BEV) includes all-electric passenger cars and utility vans.
+(2) Includes all-electric passenger cars, all-electric utility vans, and plug-in hybrids.
+(3) Market share of the plug-in passenger segment of total new car sales (utility vans not included).
+
+Since 2010, over 228,000 highway-capable plug-in electric passenger cars and utility vans have been registered in Europe through December 2014, consisting of 147,106 light-duty all-electric vehicles (64.5%) and 80,918 extended-range electric vehicles and plug-in hybrids (35.5%).[9][10][11][12][13][14] A total of 1,614 all-electric cars and 1,305 light-utility vehicles were sold in 2010. Sales jumped from 2,919 units in 2010 to 13,779 in 2011, consisting of 11,271 pure electric cars and 2,508 commercial vans.[9] In addition, over 300 plug-in hybrids were sold in 2011, mainly Opel Amperas.[10]
+
+Light-duty plug-in vehicle sales totaled 34,333 units in 2012, consisting of 24,713 all-electric cars and vans, and 9,620 plug-in hybrids.[10][11][12] The plug-in segment sales more than double to 71,943 units in 2013. Pure electric passenger and light commercial vehicles sales increased by 63.9% to 40,496 units.[11] In addition, a total of 31,477 extended-range cars and plug-in hybrids were sold in 2013.[13] Registrations reached 104,746 light-duty plug-in electric vehicles in 2014, up 45.6% from 2013. A total of 65,199 pure electric cars and light-utility vehicles were registered in Europe in 2014, up 60.9% from 2013. All-electric passenger cars represented 87% of the European all-electric segment registrations.[14] Extended-range cars and plug-in hybrid registrations totaled 39,547 units in 2014, up 25.8% from 2013.[13]
+
+During 2013 took place a surge in sales of plug-in hybrids in the European market, particularly in the Netherlands, with 20,164 PHEVs registered during the year.[305][306] Out of the 71,943 highway-capable plug-in electric passenger cars and utility vans sold in the region during 2013, plug-in hybrids totaled 31,447 units, representing 44% of the plug-in electric vehicle segment sales that year.[11][13] This trend continued in 2014. Plug-in hybrids represented almost 30% of the plug-in electric drive sales during the first six months of 2014, and with the exception of the Nissan Leaf, sales of the previous best selling models fell significantly, while recently introduced models captured a significant share of the segment sales, with the Mitsubishi Outlander P-HEV, Tesla Model S, BMW i3, Renault Zoe, Volkswagen e-Up!, and the Volvo V60 Plug-in Hybrid ranking among the top ten best selling models.[307]
+
+In 2014 Norway was the top selling country in the light-duty all-electric market segment, with 18,649 passenger cars and utility vans registered, more than doubling its 2013 sales. France ranked second with 15,046 units registered, followed by Germany with 8,804 units, the UK with 7,730 units, and the Netherlands with 3,585 car and vans registrations.[308] The Netherlands was the top selling country in the plug-in hybrid segment with 12,425 passenger cars registered,[15] followed by the UK with 7,821,[263] Germany with 4,527,[248] and Sweden 3,432 units.[257]
+
+The Opel/Vauxhall Ampera plug-in hybrid was Europe's top selling plug-in electric car in 2012 with 5,268 units, closely followed by the all-electric Nissan Leaf with 5,210 units.[10][309] In 2013 the top selling plug-in was the Leaf with 11,120 units sold,[310] followed by the Outlander P-HEV with 8,197 units.[311] The Mitsubishi Outlander plug-in hybrid was the top selling plug-in electric vehicle in Europe in 2014 with 19,980 units sold, surpassing of the Nissan Leaf (14,658), which fell to second place.[312] Ranking third was the Renault Zoe with 11,231 units,[313] followed by the Tesla Model S with 9,497 units,[314] and the BMW i3 with 8,290 units registered, including the REx variant.[315]
+
+As of December 2014, and accounting for cumulative sales since 2010, the Leaf is the top selling plug-in electric car in the region with 33,481 new units delivered,[232] followed by the Outlander P-HEV with 28,177 units,[311][312] Renault Zoe with 20,091 units, Renault Kangoo Z.E. all-electric utility van with 16,688 units,[313] and Volvo V60 Plug-in Hybrid with 13,597 units,[316][317][318] closely followed by the Tesla Model S with about 13,400 units sold.[314][319]
+Top 10 selling plug-in electric car models in Europe
+(as of December 2014)
+Ranking 	Model 	Total
+sales 	2014 	2013 	2012 	2011 	Ranking 	Model 	Total
+sales 	2014 	2013 	2012 	2011
+1 	Nissan Leaf[10][232][310][312] 	33,481 	14,658 	11,120 	5,210 	1,728 	6 	Tesla Model S[314][319] 	13,397 	9,497 	~3,900 	  	 
+2 	Mitsubishi Outlander P-HEV[311][312] 	28,177 	19,980 	8,197 	  	  	7 	BMW i3[315][320] 	9,767 	8,290 	1,477 	  	 
+3 	Renault Zoe[313] 	20,091 	11,231 	8,792 	68 	  	8 	Opel Ampera[10][321][322] 	9,695 	939 	3,184 	5,268 	304
+4 	Renault Kangoo Z.E.[313] 	16,688 	4,197 	5,850 	5,260 	991 	9 	Toyota Prius PHV[323][324][325] 	9,423 	1,352 	4,591 	3,496 	 
+5 	Volvo V60 Plug-in Hybrid[316][317][318] 	13,549 	5,441 	8,066 	42 	  	10 	Smart electric drive[326][327] 	7,464 	2,726 	3,017 	1,721(1)
+Notes: (1) Total Smart fortwo ED sales from 2010 through October 2012.
+
+As of December 2012, the leading countries in terms of EV penetration of the total auto fleet were Norway with four electric car per 1,000 automobiles registered in the country, Estonia with one electric car for every 1,000 cars, and the Netherlands with 0.6 electric cars per 1,000 registered cars.[328] During 2013 Norway kept the leadership in market penetration with 20,486 plug-in electric vehicles registered out of 2.49 million passenger cars registered in the country through December 2013, representing an EV penetration of 8.2 plug-in electric cars per 1,000 cars registered.[329][330][331] In March 2014 Norway became the first country with a market penetration of 10 plug-in electric cars for every 1,000 registered passenger cars (1%).[332]
+
+During 2013 the plug-in electric-drive segment market share of new car sales in the top selling PEV markets increased significantly. Norway reached 5.6% of new car sales, the Netherlands 5.37%, Sweden 0.57% and France 0.49%. When all-electric utility vans are accounted for, the French market EV share climbs to 0.65%.[329] Five European countries achieved plug-in electric car sales with a market share higher than 1% of new car sales in 2014, Norway (13.84%), the Netherlands (3.87%), Iceland (2.71%), Estonia (1.57%), and Sweden (1.53%).[7][257][258] The following table presents the EV market share in 20 selected European countries for the combined registrations during 2011 and 2012:
+Plug-in electric car market share in 20 selected European countries[333]
+(Total registrations during 2011 and 2012)
+Ranking 	Country 	PEV
+market
+share(1)
+(%) 	PEVs
+registered
+2011-12(1) 	Total vehicle
+registrations 	Ranking 	Country 	PEV
+market
+share(1)
+(%) 	PEVs
+registered
+2011-12(1) 	Total vehicle
+registrations
+1 	 Norway 	2.275% 	6,287 	276,312 	11 	 Czech Republic 	0.146% 	507 	347,291
+2 	 Estonia 	1.723% 	562 	32,617 	12 	 Slovakia 	0.110% 	156 	142,099
+3 	 Portugal 	0.905% 	2,250 	248,713 	13 	 Belgium 	0.108% 	1,148 	1,058,948
+4 	 Austria 	0.711% 	4,924 	692,155 	14 	 Germany 	0.105% 	6,553 	6,256,138
+5 	 Netherlands 	0.570% 	6,030 	1,058,390 	15 	 United Kingdom 	0.084% 	3,342 	3,985,862
+6 	 Poland 	0.2980% 	1,640 	551,016 	16 	 Spain 	0.057% 	863 	1,507,640
+7 	 Denmark 	0.290% 	987 	340,799 	17 	 Latvia 	0.051% 	13 	25,636
+8 	  Switzerland 	0.227% 	1,472 	647,097 	18 	 Bulgaria 	0.036% 	14 	38,541
+9 	 France 	0.219% 	8,989 	4,102,989 	19 	 Hungary 	0.035% 	34 	98,162
+10 	 Sweden 	0.193% 	1,128 	584,883 	20 	 Greece 	0.001% 	2 	156,164
+Note (1) Market penetration of highway-capable plug-in electric passenger cars, only includes pure electric cars and plug-in hybrids.
+Netherlands
+Main article: Plug-in electric vehicles in the Netherlands
+Registration of highway-capable plug-in electric vehicles in the Netherlands by year between 2010 and 2014.[15][334][335]
+
+As of December 2014, a total of 45,020 highway legal plug-in electric vehicles were registered in the Netherlands, consisting of 36,937 range-extended or plug-in hybrids, 6,825 pure electric cars, and 1,258 all-electric light utility vans. When buses, trucks, motorcycles, quadricycles and tricycles are accounted for, the Dutch plug-in electric-drive fleet climbs to 46,111 units.[15] The country's electric vehicle stock reaches 73,574 units when mopeds (3,441), electric bicycles (23,850), and microcars (172) are accounted for.[15]
+
+The Netherlands is among the country's with the highest EV market penetration in the world. Registrations of plug-in electric car represented a 0.57% share of total new car registrations in the country during 2011 and 2012, ahead of other European countries with a larger car market, such as Germany, France, and the UK[333] During 2013 plug-in electric passenger car registrations totaled 22,415 units, climbing 338% from 2012, the highest rate of growth of any country in the world in 2013.[329][335] The segment's market share surged almost ten times from 2012 to 5.37% new car sales in the country during that year, the world's second highest in 2013 after Norway (5.6%). The rapid growth of segment during 2013, allowed the Netherlands to reach a market penetration for plug-in vehicles of around 1.71 vehicles per 1,000 people, second only to Norway (4.04).[329] The market share of the plug-in electric passenger car segment in 2014 fell to 3.86% of total new passenger car registrations, after the end of some of the tax incentives.[15][336]
+
+A total of 5,093 plug-in electric cars were registered in the Netherlands during 2012.[337][338] Sales of plug-in hybrid cars took the lead over all-electric cars during 2012. The Opel Ampera was the best selling plug-in electric car with 2,696 units sold in 2012, with the Prius Plug-in Hybrid ranking second, with 1,184 units, followed by the Chevrolet Volt with 306 units. Adding 140 Fisker Karmas sold during 2012, the plug-in hybrid segment led the Dutch market with 4,326 units sold during 2012, representing 84.9% of all plug-in electric car registrations in the country during that year.[337][338] The Nissan Leaf was the top selling all-electric car in the country in 2012 with 265 units sold, and a total of 559 units since their introduction in the country by mid-2011.[337][338]
+As of June 2014, the Mitsubishi Outlander P-HEV is the top selling plug-in electric vehicle in the Netherlands ever.
+
+In November 2013, a total of 2,736 Mitsubishi Outlander P-HEVs were sold, making the plug-in hybrid the top selling new car in the country that month, representing a market share of 6.8% of all the new cars sold.[339][340] Again in December 2013, the Outlander P-HEV ranked as the top selling new car in the country with 4,976 units, representing a 12.6% market share of new car sales, contributing to a world record plug-in vehicle market share of 23.8% of new car sales.[341][342] The Netherlands is the second country, after Norway, where plug-in electric cars have topped the monthly ranking of new car sales.[339][340][342] The strong increase of plug-in car sles during the last months of 2013 was due to the end of the total exemption of the registration fee for corporate cars, which is valid for 5 years. From January 1, 2014, all-electric vehicles pay a 4% registration fee and plug-in hybrids a 7% fee.[336]
+
+A total of 15,678 light-duty plug-in electric vehicles were registered in the Netherlands in 2014, consisting of 12,425 plug-in hybrids, down 38.4% from 2013, 2,664 all-electric cars, up 18.3% from a year earlier, and 589 vans, up 236.6% from 2013.[343] Sales in 2014 were led by the Outlander P-HEV with 7,666 units,[344] followed by Volvo V60 Plug-in Hybrid with 3,126 units,[345] and Tesla Model S with 1,465 units sold.[346]
+
+The dominance of plug-in hybrids in the Netherlands is reflected by the fact that, accounting for cumulative registrations up to December 2014, four out of the top five selling plug-in electric models are plug-in hybrids. Dutch PEV registrations as of 31 December 2014 are led by the Mitsubishi Outlander P-HEV (15,725), followed by the Volvo V60 Plug-in Hybrid (9,707), Opel Ampera (4,976 units), and Prius PHV (4,024). Ranking fifth is the Tesla Model S with 2,645 units, which passed the Chevrolet Volt (1,065) in December 2013.[343] A total of 36,937 plug-in hybrids out of 45,020 light-duty plug-in electric vehicles have been registered in the Netherlands as of December 2014, representing 82.0% of the country's plug-in electric drive stock.[15]
+France
+Further information: Electric cars in France
+Registration of highway capable all-electric vehicles in France by type of vehicle between 2010 and 2014.[347][348][349][350][351]
+
+Since January 2010, a total of 43,605 highway-capable all-electric vehicles have been registered in France through December 2014, consisting of 27,816 passenger cars and 15,789 are electric utility vans.[347][348][349][350][351] Electric car registrations increased from 184 units in 2010 to 2,630 in 2011. Sales in 2012 increased 115% from 2011 to 5,663 cars,[347][352][353] allowing France to rank 4th among the top selling EV countries, with an 11% market share of global all-electric car sales in 2012.[238] Registrations reached 8,779 electric cars in 2013, up 55.0% from 2012,[348] and the all-electric market share of total new car sales went up to 0.49% from 0.3% in 2012.[353][354]
+
+In addition, 5,175 electric utility vans were registered in 2013, up 42% from 2012,[348] and representing a market share of 1.4% of all new light commercial vehicles sold in 2013.[354] Sales of electric passenger cars and utility vans totaled 13,954 units in 2013,[348] capturing a combined market share of 0.65 of these two segments new car sales.[329] When sales of pure electric cars and light utility vehicles are accounted together, France was the leading the European all-electric market in 2012 and 2013.[329][348][355][356]
+
+During 2014 sales of all-electric vehicles in France passed the 10,000 unit milestone for the first time. A total of 15,045 all-electric cars and vans were registered in 2014, up 7.8% from 2013. A total of 10,560 pure electric passenger cars registered in 2014, up 20.3% from the previous year.[351] This figure rises to 10,968 units if the BMW i3 with range extender is accounted for.[357] All-electric utility vans continued to be a significant share of the all-electric segment, with 4,485 units registered in 2014, but down 13.3% from 2013.[351] All-electric cars captured a 0.59% market share of the 1.7 million new car registered in France in 2014, while light-duty electric vehicles reached a 1.22% market share of their segment. Combined both segments represented a market share of 0.70% of new registrations in the country in 2014.[358] Light-duty all-electric vehicle sales achieved its best monthly volume on record ever in December 2014, with 2,227 units registered, twice the volume registered the same month in 2013.[351] The slow down in sales that took place in the French EV market during the first half of 2014, allowed Norway, with 18,649 new all-electric vehicles registered, to end 2014 as the top selling European market in the light-duty all-electric segment, and France ranked second.[359][360]
+The Renault Zoe led electric car sales in France in 2013 and 2014, and ranks as the country's best selling all-electric car ever, with over 11,500 units registered as of December 2014.[347][348]
+
+In the French market plug-in hybrids or rechargeable hybrids are classified and accounted together with conventional hybrid electric vehicles. Almost 1,500 plug-in hybrids were registered during 2012 and 2013, 666 units in 2012,[361] and 808 units in 2013.[362][363] Plug-in hybrid car registrations totaled 1,519 units in 2014, almost doubling registrations from a year earlier.[364] Plug-in hybrid sales were driven by the Mitsubishi Outlander P-HEV, with 820 units registered in 2014, representing 54% of the segment registrations in France that year.[365] Between 2012 and 2014, cumulative plug-in hybrid registrations totaled 2,985 units, rising cumulative French registrations of light-duty plug-in electric vehicles since 2005 to 46,590 units,[360][361][362][364] just ahead of the Netherlands (45,020),[343] and making France the European country where there are more plug-in electric vehicles on the road.[360]
+
+During 2012, all-electric car registrations in France were led by the Bolloré Bluecar with 1,543 units.[366] The Renault Kangoo Z.E. was the top selling utility electric vehicle with 2,869 units registered in 2012, representing a market share of 82% of the segment.[355][356] The Renault Twizy electric quadricycle, launched in March 2012, sold 2,232 units during 2012, surpassing the Bolloré Bluecar, and ranked as the second best selling plug-in electric vehicle after the Kangoo Z.E.[367] During 2013, registrations of pure electric cars were led by the Renault Zoe with 5,511 units, representing 62.8% of total EV sales.[348] Registrations of all-electric light utility vehicles were led by the Renault Kangoo Z.E. with 4,174 units, representing 80.7% of the segment sales.[348]
+
+The Zoe continued leading all-electric vehicle registration in 2014, with 5,970 units registered, followed by the Kangoo Z.E. van with 2,657 registrations, and the Nissan Leaf ranked next with 1,600 units.[347][358] As of December 2014, the French leader in the all-electric segment is the Renault Zoe with 11,529 units registered since 2012, followed by the Kangoo Z.E. utility van with 10,483 units registered since 2010, the Bolloré Bluecar with 3,770 units, and the Nissan Leaf with 3,645 units.[347][348][358][368][369] Most units of the Bluecar are in operation for the Autolib' carsharing service in Paris, ans similar carsharing programs in Lyon and Bordeaux.[370]
+Norway
+Main article: Plug-in electric vehicles in Norway
+Registration of plug-in electric vehicles in Norway by year between 2004 and 2014.[266][330]
+
+As of December 2014, a total of 43,442 plug-in electric vehicles were registered in Norway.[371] The country's plug-in electric drive stock consist of 35,781 all-electric passenger and light-duty vehicles and 2,043 plug-in hybrids.[371] As of December 2014, plug-in car registrations included about 6,449 used imports from neighboring countries, of which, 2,086 were imported in 2013 and 3,063 in 2014.[266][372] Out of the total all-electric stock registered through September 2013, over 1,440 units were heavy quadricycles, such as the Kewet/Buddy and the REVAi.[373] The milestone of 50,000 all-electric cars on Norwegian roads was reached on 20 April 2015, more than two years earlier than expected by the government.[374][375]
+
+The Norwegian fleet of electric cars is one of the cleanest in the world because almost 100% of the electricity generated in the country comes from hydropower.[376] Due to its population size, Norway is the country with the largest EV ownweship per capita in the world,[377][378] reaching 4.0 plug-in electric vehicles per 1,000 people in 2013, a market penetration nine times higher than the U.S., the world's largest plug-in electric car market.[329] In March 2014, Norway became the first country where over one in every 100 registered passenger cars is plug-in electric,[332] and the segment's market penetration reached 2% in March 2015.[379] The Norwegian plug-in electric vehicle market share of new car sales is the highest in the world, the EV segment market share rose from 1.6% in 2011, to 3.1% in 2012,[380] and reached 5.6% of new car sales in 2013.[330] Only the Netherlands, with 5.37% in 2013, has achieved a similar market share for the plug-in electric drive segment.[329] The Norwegian all-electric segment increased its market share of new car sales to 12.5% in 2014.[315] During the first quarter of 2015 the all-electric market share rose to 20.4%, while the plug-in hybrid segment reached 2.5%, for a combined PEV market share of almost 23% of all passenger cars sold during this period.[381]
+
+Also, Norway was the first country in the world to have electric cars topping the new car sales monthly ranking. The Tesla Model S has been the top selling new car three times, twice in 2013, first in September and again in December,[382][383] and one more time in March 2014.[384] The Nissan Leaf has topped the monthly new car sales ranking twice, first in October 2013 and again in January 2014.[385][386][387] Both the Nissan Leaf and the Tesla Model S were listed among the Norwegian top 20 best selling new cars in 2013, with the Leaf ranking third with 4,604 units and a 3.2% market share; and the Model S ranking 20th with a 1.4% market share of new car sales in 2013.[388] In March 2014 the Tesla Model S also broke the 28-year-old record for monthly sales of a single model regardless of its power source, with 1,493 units sold, surpassing the Ford Sierra, which sold 1,454 units in May 1986.[384][389] Sales of the Model S also contributed to achieve a record market share for the new all-electric car segment of 20.3% of total new car sales that month.[332][384][390] A new record market share of the plug-in electric vehicle segment was achieved in January, with 1,895 new all-electric cars registered reaching an 18.0% market share, plus 326 new plug-in hybrids reaching a 3.1% share, for a combined market share of 21.1% of total new car registrations that month.[391][392]
+Electric cars have access to bus lanes in Norway. Shown a Nissan Leaf, the top selling plug-in electric car in the country since 2012.
+
+Plug-in electric vehicle registrations totaled 10,769 units in 2013, of which used imports represented 20%. This total includes 387 plug-in hybrids and 355 all-electric light commercial vans, together representing 6.9% of total 2013 car registrations in the Norwegian market.[330] The plug-in electric drive segment in Norway grew 129% from 2012 to 2013, achieving one of the highest EV rates of growth in the world, second only to the Netherlands (338%).[329] A total of 23,390 plug-in electric vehicles were registered in 2014, consisting of 18,094 new all-electric cars, 3,063 used imported all-electric cars, 1,678 new plug-in hybrid cars and 555 new all-electric vans.[266] Combined sales of new and used plug-in electric vehicles captured a 13.84% market share of total passenger car registrations in 2014.[7] Sales of the new all-electric car segment reached a market share of 12.5%.[315] New all-electric passenger car registrations were up 129.5% from 2013, and the plug-in hybrid segment grew 411.6% from a year earlier.[266] Norway ended 2014 as the top selling European country in the light-duty all-electric market segment, with 18,649 passenger cars and utility vans registered.[308]
+The Tesla Model S, with over 6,000 units sold as of December 2014, is Norway's second top selling plug-in electric car.
+
+During 2013, the Leaf continued as the top selling plug-in electric car, with 4,604 new units sold during the year, which represent 58.4% of plug-in electric car sales in 2013. The Tesla Model S ranked second with 1,986 units (25.2% share), followed by the Volkswagen e-Up! with 580 units (7.4% share).[393] In January 2014, the Leaf topped for a second time the ranking of top selling new cars in Norway, with 650 units sold, representing a 5.7% of new car sales that month.[387] The Model S was Norway's best selling new car during the first quarter of 2014, capturing a 5.6% market share of new car sales during this period.[332][384][390] During the first half of 2014, the Model S, with 3,136 units sold, ranked as the second best selling new car in Norway with a market share of 4.3% of new car sales.[394] Plug-in electric car sales in 2014 were led by the Nissan Leaf with 4,781 new registrations, followed by Tesla Model S with 4,040 units. The Leaf ended 2014 as the third top selling new car in Norway, capturing a 3.3% market share of total new car sales in the country that year.[266]
+
+As of December 2014, a total of 12,056 new Leafs had been sold in the country.[266][393][395] In addition, there were 3,626 used imported Leafs registered in the country as of 30 September 2014.[396] With about 16,000 units registered including used imports, the Leaf ranks as the country's all-time top selling electric car, representing 39% of the country's all-electric registered fleet.[396] The Tesla Model S, released in August 2013, ranks second with cumulative sales of 6,023 new units up until December 2014,[266][393] with about 14% of the total registered plug-in electric vehicle stock.[396]
+Germany
+Further information: Plug-in electric vehicles in Germany
+Annual registration of plug-in electric vehicles in Germany by type of vehicle between 2010 and 2014.[248][267][397][398]
+
+As of December 2014, there were over 25,000 plug-in electric cars registered in Germany,[248][249] of which, more than half (13,049) were registered during 2014.[248] Most of the plug-in stock in Germany has been registered by corporate customers. As of December 2013, only 3,098 (25.5%) units were registered by private individuals, and car manufacturers and the automobile industry have registered 3,981 cars (32.7%) for research, demonstration and promotional purposes.[249] The official German definition of electric vehicles changed at the beginning of 2013, before that, official statistics only registered all-electric vehicles because plug-in hybrids were accounted together with conventional hybrids. As a result, the registrations figures for 2012 and older do not account for total new plug-in electric car registrations.[399] As of November 2014, the country had 4,800 public charging stations.[400]
+As of December 2013, the Smart electric drive led plug-in electric car registrations in Germany with 2,952 units.[249]
+
+Total plug-in electric car registrations increased from 1,558 units in 2009 to 2,307 in 2010. The total registered plug-in electric stock in 2011 increased 96.8% from 2010 to 4,541 cars, to 7,114 in 2012, and reached 12,156 registered cars on 1 January 2014.[249] Registrations of plug-in electric drive vehicles represented a 0.028% market share of all passenger vehicles registered in Germany at the beginning of 2014.[249] During the first seven months of 2014 a total of 6,820 plug-in cars were registered, consisting of 2,035 plug-in hybrids and 4,785 electric cars. The segments's market share climbed to 0.4% of new passenger car registrations.[401] The all-electric segment grew 16% year-over-year, while plug-in hybrids, including the BMW i3 REx, experienced a growth of 454%.[402]
+
+During 2011, a total of 2,154 pure electric cars were registered in the country, up from 541 units in 2010.[397] All-electric car sales for 2011 were led by the Mitsubishi i-MiEV family with 683 i-MiEVs, 208 Peugeot iOns and 200 Citroën C-Zeros, representing 50.6% of all electric car registrations in 2011.[397] Plug-in hybrid registrations totaled 266 units in 2011, 241 Opel Amperas and 25 Chevrolet Volts, for a total of 2,420 plug-in electric vehicles registered in 2011.[403]
+The BMW i3 led plug-in car registrations in 2014.[404]
+
+A total of 2,956 all-electric vehicles were registered in Germany during 2012, a 37.2% increase over 2011.[398] When 901 registered plug-in hybrids are accounted for, 2012 registrations climb to 3,857 units,[398][405] and sales of plug-in electric car represented a 0.12% market share of new passenger vehicles sold in the country in 2012.[406] Most sales in the country were made by corporate and fleet customers and 1,493 all-electric vehicles were registered by the automobile industry, as demonstration or research vehicles.[398] Registrations of plug-in electric-drive vehicles were led by the Opel Ampera extended-range electric car with 828 units, followed by the Smart electric drive with 734 units.[405][407] In addition, a total of 2,413 Renault Twizys were sold during 2012, making Germany the top selling European market for the electric quadricycle.[367][408]
+
+A total of 5,042 plug-in electric cars were registered in Germany in 2013.[249] Registrations were led by the Smart electric drive with 2,146 units, followed by Renault Zoe with 1,019, the Nissan Leaf with 855 units, and the BMW i3 with 559.[409][410] During the first six months of 2014 the BMW i3 was the leader, with 1,378 units registered, followed by the Volkswagen e-Up! with 884 and the Smart ED with 645.[411][412] Accounting for registrations of plug-in electric cars between January 2010 and June 2014, the leading model is the Smart electric drive with 3,959 units registered, with a significant number in use by carsharing services, followed by the BMW i3 with 1,937 units, the Renault Zoe with 1,532, and the Opel Ampera with 1,450 units.[249][397][398][403][405][409][411][412]
+United Kingdom
+Main article: Plug-in electric vehicles in the United Kingdom
+Registration of plug-in electric vehicles in the UK between 2011 and 2014.[263][413][414][415]
+
+More than 24,500 plug-in electric vehicles have been registered in the UK up until December 2014, including all-electric cars, commercial vans and plug-in hybrids,[250] of which, more than half (14,598) were registered in 2014.[263] This figure includes 1,467 registered electric cars and vans which were not eligible for the Plug-in Grant.[250] Registrations between 2006 and December 2010 totaled 1,096 electric vehicles,[416] with the G-Wiz, a heavy quadricycle, listed as the top-selling EV for several years.[417] Electric car sales grew from 138 units in 2010 to 1,082 units during 2011.[413][418]
+
+During 2012, a total of 2,254 plug-in electric cars were registered in the UK, of which, 1,262 were pure electrics, and sales were led by the Nissan Leaf with 699 units, followed by the Toyota Prius Plug-in Hybrid and the Vauxhall Ampera, with 470 and 455 units sold, respectively, in 2012.[415][419][420] Vehicles eligible for the Plug-in Car Grant accounted for 0.1% of total new car sales in 2012, with pure electric cars representing only 0.06%.[421]
+
+During 2013, plug-in electric car registrations totaled 3,584 units, up 59.0% from 2012.[415][422] Of these, 2,512 were pure electric cars, up 99.0% from 2012, and 1,072 plug-in hybrids, up 8.1% from 2012.[415] Plug-in car sales represented a 0.16% market share of the 2.26 million new cars sold in the UK in 2013.[422] The top selling plug-in electric car during 2013 was the Nissan Leaf, with over 1,650 units sold,[423] and the Prius PHV ended 2013 as the top selling plug-in hybrid with 509 units, up 8.5% from 2012.[422]
+As of December 2014, the Nissan Leaf was the top selling plug-in electric car in the UK ever with about 7,200 units sold since 2011.[264][423][424]
+
+The British market experienced a rapid growth of plug-in car sales during 2014, driven by the introduction of new models such as the BMW i3, Tesla Model S, Mitsubishi Outlander P-HEV, Renault Zoe, and Volkswagen e-Up!.[264][425][426] Plug-in electric car registrations in the UK quadruple from 3,586 in 2013 to 14,498 units in 2014.[264] Registrations consisted of 6,697 pure electrics and 7,821 plug-in hybrids. Total registrations in 2014 were up 305% from 2013, with all-electric cars growing 167% while plug-in hybrid registrations were up 628% from a year earlier.[263] The plug-in electric car segment captured a 0.59% market share of new car sales in 2014, up from 0.16% in 2013.[263][423] In November 2014 the passenger plug-in segment's market share passed 1% of monthly new car sales for the first time in the UK.[427][428] Again in January 2015, the segment's market share was over 1% of new car sales with 1,715 plug-in electric cars registered that month.[429][430]
+
+The Mitsubishi plug-in hybrid became the top selling plug-in electric vehicle in July 2014 and captured 43% of all applications to the Plug-in Car Grants scheme that month.[431] The Outlander P-HEV ended 2014 as the top selling plug-in electric car in the UK that year with 5,370 units sold.[344][432] The Nissan Leaf sales also experienced a significant growth in 2014, with 4,051 units sold, up 124% from the 1,812 units sold in 2013.[264] As of December 2014, the Leaf continued ranking as the top selling plug-in electric car in the UK ever with cumulative sales of 7,197 units since its introduction in March 2011.[264][423][424] Sales of the Mitsubishi Outlander P-HEV in the British market reached the 10,000 unit milestone in March 2015, allowing the plug-in hybrid to overtake the Leaf as the all-time top selling plug-in electric vehicle in the UK.[433][434]
+Top selling PEV models
+For more details of sales by model, see list of modern production plug-in electric vehicles.
+The Nissan Leaf is the world's top selling highway legal plug-in electric car in history. Global sales passed the 150,000 units milestone in November 2014.[435][436]
+
+The world's top selling highway-capable all-electric car is the Nissan Leaf with global sales of over 180,000 units by early June 2015. The top markets for Leaf sales are the United States with 80,000 units sold, followed by Japan with about 53,500 units, and Europe with around 41,500.[4] As of June 2015, the market leader in Europe is Norway with 13,667 new Leafs registered,[266][393][395][437] followed by the UK with 10,161 units sold through June 2015,[438] The Tesla Model S is the world's second top selling all-electric car, with over 78,000 units sold worldwide through June 2015,[5] with the U.S. as the largest market, with over 50,000 units sold by early July 2015.[439][440] The world's top selling all-electric light utility vehicle is the Renault Kangoo Z.E., with global sales of 18,427 vans delivered through June 2015.[441]
+
+As of June 2015, the Volt/Ampera family is the world's best selling plug-in hybrid and the second best selling plug-in electric car after the Leaf, with combined sales of around 95,000 units worldwide, including over 9,700 Opel/Vauxhall Amperas sold in Europe through April 2015.[5][10][321][442] As of June 2015, Volt sales are led by the United States with 78,979 units,[443] followed by Canada with 4,377 units sold.[444] Ampera sales are led by the Netherlands with 4,976 units registered at the end of December 2014.[334] The Toyota Prius PHV is the second top selling plug-in hybrid car, with global sales of 73,590 units worldwide as of July 2015.[445] The United States is the market leader with 41,576 units,[234][275][276][446] followed by Japan with 21,657 units, and Europe with 9,914 units, all through July 2015.[445] The European market is led by the Netherlands with 4,067 units registered by the end of June 2015.[447] Ranking third is the Mitsubishi Outlander P-HEV with over 63,000 units sold worldwide as of May 2015.[448][449][450][451] Sales are led by the European market with about 40,000 units delivered through May 2015,[449] followed by Japan with 22,599 units sold through June 2015.[452] The top selling European countries are the Netherlands with 18,230 units registered by June 2015,[447] and the UK with 11,795 units sold through May 2015.[449]
+
+The following table presents market launch date, global sales and main country markets of the top selling highway-capable plug-in electric vehicles produced between 2008 and June 2015. The table includes plug-in passenger cars and plug-in utility vans with around or over 25,000 units sold.

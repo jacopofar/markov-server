@@ -1,0 +1,23 @@
+{
+  "name": "markov-server",
+  "version": "1.0.0",
+  "description": "A Markov chain model server, which allows to create and use Markov chains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markov",
+    "chain"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "deasync": "^0.1.0",
+    "restify": "^4.0.0",
+    "sqlite3": "^3.0.10"
+  },
+  "devDependencies": {
+    "should": "^7.0.4"
+  }
+}
