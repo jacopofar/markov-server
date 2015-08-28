@@ -1,3 +1,4 @@
+'use strict';
 var express = require('express');
 var MarkovModel = require('./model');
 var SQLItePersistor = require('./SQLItePersistor');
@@ -13,6 +14,7 @@ nconf.defaults({
 });
 
 
+
 var writeApp = express();
 var readApp;
 var metaDataApp;
@@ -21,6 +23,9 @@ writeApp.use(bodyParser.raw({type: function(){return true;}}));
 var models = {};
 
 writeApp.post('/chains/:name/learn', function(req, res, next) {
+  function isValidUTF8(buf){
+    return Buffer.compare(new Buffer(buf.toString(),'utf8') , buf) === 0;
+  };
   console.log('---------------------\n'+req.body+'\n----------------------');
   console.log("content type: "+req.get('Content-Type'));
   if(typeof models[req.params.name] === 'undefined'){
