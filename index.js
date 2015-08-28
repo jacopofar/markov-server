@@ -1,7 +1,5 @@
 'use strict';
 var express = require('express');
-var MarkovModel = require('./model');
-var SQLItePersistor = require('./SQLItePersistor');
 var bodyParser = require('body-parser');
 var nconf = require('nconf');
 
@@ -19,7 +17,6 @@ var metaDataApp;
 writeApp.use(bodyParser.raw({type: function(){return true;}}));
 
 global.models = {};
-
 
 
 var writeServer = writeApp.listen(nconf.get('writePort'), function () {
