@@ -1,15 +1,26 @@
 var express = require('express');
-var app = express();
 var MarkovModel = require('./model');
 var SQLItePersistor = require('./SQLItePersistor');
 var bodyParser = require('body-parser');
-//server.on('uncaughtException',function(a){console.log(a)});
-app.use(bodyParser.raw({ type: function(){
-  return true;
-} }));
+var nconf = require('nconf');
+
+//command line parameters have priority over environment variables
+nconf.argv().env();
+nconf.defaults({
+  writePort : 3000,
+  metaDataPort : 3001,
+  readPort : 3002
+});
+
+
+var writeApp = express();
+var readApp;
+var metaDataApp;
+writeApp.use(bodyParser.raw({type: function(){return true;}}));
 
 var models = {};
-app.post('/chains/:name/learn', function(req, res, next) {
+
+writeApp.post('/chains/:name/learn', function(req, res, next) {
   console.log('---------------------\n'+req.body+'\n----------------------');
   console.log("content type: "+req.get('Content-Type'));
   if(typeof models[req.params.name] === 'undefined'){
@@ -28,9 +39,40 @@ app.post('/chains/:name/learn', function(req, res, next) {
   next();
 });
 
-var server = app.listen(3000, function () {
-  var host = server.address().address;
-  var port = server.address().port;
-
-  console.log('Example app listening at http://%s:%s', host, port);
+var writeServer = writeApp.listen(nconf.get('writePort'), function () {
+  var host = writeServer.address().address;
+  var port = writeServer.address().port;
+  console.log('write API listening at http://%s:%s', host, port);
 });
+
+if(nconf.get('readPort') == nconf.get('writePort')){
+  readApp = writeApp;
+  console.log('read API using the same port of the write API');
+}
+else{
+  readApp = express();
+  var readServer = readApp.listen(nconf.get('readPort') , function () {
+    var host = readServer.address().address;
+    var port = readServer.address().port;
+    console.log('read API listening at http://%s:%s', host, port);
+  });
+}
+
+if(nconf.get('metaDataPort') == nconf.get('writePort')){
+  metaDataApp = writeApp;
+  console.log('metadata API using the same port of the write API');
+}
+else{
+  if(nconf.get('metaDataPort') == nconf.get('readPort')){
+    metaDataApp = readApp;
+    console.log('metadata API using the same port of the read API');
+  }
+  else{
+    metaDataApp = express();
+    metaDataServer = metaDataApp.listen(nconf.get('metaDataPort') , function () {
+      var host = metaDataServer.address().address;
+      var port = metaDataServer.address().port;
+      console.log('metadata API listening at http://%s:%s', host, port);
+    });
+  }
+}

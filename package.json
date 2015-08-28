@@ -16,6 +16,7 @@
     "body-parser": "^1.13.3",
     "deasync": "^0.1.0",
     "express": "^4.13.3",
+    "nconf": "^0.7.2",
     "sqlite3": "^3.0.10"
   },
   "devDependencies": {
