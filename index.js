@@ -1,20 +1,36 @@
-var restify = require('restify');
+var express = require('express');
+var app = express();
 var MarkovModel = require('./model');
 var SQLItePersistor = require('./SQLItePersistor');
+var bodyParser = require('body-parser');
+//server.on('uncaughtException',function(a){console.log(a)});
+app.use(bodyParser.raw({ type: function(){
+  return true;
+} }));
 
-var server = restify.createServer();
 var models = {};
-server.post('/chains/:name/learn', function(req, res, next) {
-  console.log(req);
+app.post('/chains/:name/learn', function(req, res, next) {
+  console.log('---------------------\n'+req.body+'\n----------------------');
+  console.log("content type: "+req.get('Content-Type'));
   if(typeof models[req.params.name] === 'undefined'){
     models[req.params.name] = new MarkovModel(new SQLItePersistor(req.params.name));
   }
   var mm = models[req.params.name];
-  mm.learn(JSON.parse(req.body).values);
+  var toLearn;
+  if(req.get('Content-Type') === 'application/x-www-form-urlencoded'){
+    toLearn = req.body.toString().split(' ');
+    console.log("toLearn: "+JSON.stringify(toLearn));
+    //TODO manage utf8 errors
+  }
+  //TODO manage undefined toLearn, meaning the message was not processed
+  mm.learn(toLearn);
   res.send('hello ' + req.params.name);
   next();
 });
 
-server.listen(8080, function() {
-  console.log('%s listening at %s', server.name, server.url);
+var server = app.listen(3000, function () {
+  var host = server.address().address;
+  var port = server.address().port;
+
+  console.log('Example app listening at http://%s:%s', host, port);
 });

@@ -13,8 +13,9 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
+    "body-parser": "^1.13.3",
     "deasync": "^0.1.0",
-    "restify": "^4.0.0",
+    "express": "^4.13.3",
     "sqlite3": "^3.0.10"
   },
   "devDependencies": {

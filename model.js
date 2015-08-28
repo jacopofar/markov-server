@@ -79,7 +79,6 @@ MM.prototype.randomSuccessor = function(state,callback){
 * Get a random sequence of states after the given one, just like calling randomSuccessor iteratively.
 */
 MM.prototype.multipleSuccessors = function(num,curState,cb,curSequence){
-  if(num % 1000 === 0) console.log(num);
   this.randomSuccessor(curState,function(err,value){
     if(err){
       cb(err,curSequence);
@@ -99,7 +98,11 @@ MM.prototype.multipleSuccessors = function(num,curState,cb,curSequence){
 * creates aggregate states. padding=true means that on the array edges null values are added to let the window slide
 */
 MM.prototype.aggregateStates = function(array,window_size,padding){
-
+  if(typeof this.order === 'number'){
+    if(window_size !== this.order){
+      return new Error("invalid order, this model has order "+this.order+" but was requested aggregation with window_size "+window_size);
+    }
+  }
   if(padding === true){
     var pads = [];
     for(var i=0;i<=window_size;i++)
