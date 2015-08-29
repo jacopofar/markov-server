@@ -1,4 +1,5 @@
 'use strict';
+var msgpack = require('msgpack');
 module.exports = function(res,error_message,http_status){
   res.format({
   'text/plain': function(){
@@ -7,6 +8,10 @@ module.exports = function(res,error_message,http_status){
   'text/html': function(){
     res.status(http_status).send(error_message);
   },
+  'bin/msgpack': function(){
+    res.status(http_status).send(msgpack.pack({ error: error_message }));
+  },
+
   'application/json': function(){
     res.status(http_status).json({ error: error_message });
   },
