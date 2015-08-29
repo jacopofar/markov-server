@@ -20,58 +20,56 @@ var SQLItePersistor = function(name){
   }.bind(this));
 };
 
-SQLItePersistor.prototype.addTransition = function(start,end,opt_increment){
-  var increment = opt_increment||1;
-  this.db.run("INSERT OR REPLACE INTO transitions VALUES ($start,$end,\
-    (SELECT COALESCE(SUM(count) + $increment,$increment) FROM transitions WHERE start = $start AND end = $end))",
-    {$start:start,$end:end,$increment:increment},
-    function(error){
-      if(error){
-        console.log("error:"+error);
+SQLItePersistor.prototype.addTransitions = function(toAdd){
+  //  this.db.serialize(function(){
+  try{
+    this.db.run("BEGIN");
+  }
+  catch(ex){
+    console.log("error when opening the transaction: "+ex);
+  }
+  Object.keys(toAdd).forEach(function(s){
+    Object.keys(toAdd[s]).forEach(function(e){
+      this.db.run("INSERT OR REPLACE INTO transitions VALUES ($start,$end,\
+        (SELECT COALESCE(SUM(count) + $increment,$increment) FROM transitions WHERE start = $start AND end = $end))",
+        {$start:s,$end:e,$increment:toAdd[s][e]},
+        function(error){
+          if(error){
+            console.log("error during INSERT:"+error);
+          }
+          //  console.log(this.name +":inserted "+s+" --> "+e+"("+toAdd[s][e]+")");
+        }.bind(this));
+      }.bind(this));
+    }.bind(this));
+    try{
+      this.db.run("COMMIT");
     }
-      //console.log(this.name +":inserted "+start+" --> "+end+"("+increment+")");
+    catch(ex){
+      console.log("error when closing the transaction: "+ex);
+    }
+    //  }.bind(this));
+  };
+
+
+  SQLItePersistor.prototype.getSuccessors = function(state,callback){
+    var retVal = {};
+    var err = null;
+    this.db.each("SELECT end,count FROM transitions WHERE start = ?",[state],function(err_row,row){
+      if(err_row){
+        err=err_row;
+      }
+      retVal[row.end] = row.count;
+    },
+    function(){
+      callback(err,retVal);
     }.bind(this));
   };
-  SQLItePersistor.prototype.addTransitions = function(toAdd){
-  //  this.db.serialize(function(){
-      this.db.run("BEGIN");
-      Object.keys(toAdd).forEach(function(s){
-        Object.keys(toAdd[s]).forEach(function(e){
-          this.db.run("INSERT OR REPLACE INTO transitions VALUES ($start,$end,\
-            (SELECT COALESCE(SUM(count) + $increment,$increment) FROM transitions WHERE start = $start AND end = $end))",
-            {$start:s,$end:e,$increment:toAdd[s][e]},
-            function(error){
-              if(error){
-              console.log("error:"+error);
-            }
-            //  console.log(this.name +":inserted "+s+" --> "+e+"("+toAdd[s][e]+")");
-            }.bind(this));
-          }.bind(this));
-        }.bind(this));
-        this.db.run("COMMIT");
-    //  }.bind(this));
-    };
 
-
-    SQLItePersistor.prototype.getSuccessors = function(state,callback){
-      var retVal = {};
-      var err = null;
-      this.db.each("SELECT end,count FROM transitions WHERE start = ?",[state],function(err_row,row){
-        if(err_row){
-          err=err_row;
-        }
-        retVal[row.end] = row.count;
-      },
-      function(){
-        callback(err,retVal);
-      }.bind(this));
-    };
-
-    SQLItePersistor.prototype.successorsTotal = function(state,callback){
-      var retVal = {};
-      var err = null;
-      this.db.get("SELECT SUM(count) AS total FROM transitions WHERE start = ?",[state],function(err_row,row){
-        callback(err_row,err_row ? null : row.total);
-      });
-    };
-    module.exports = SQLItePersistor;
+  SQLItePersistor.prototype.successorsTotal = function(state,callback){
+    var retVal = {};
+    var err = null;
+    this.db.get("SELECT SUM(count) AS total FROM transitions WHERE start = ?",[state],function(err_row,row){
+      callback(err_row,err_row ? null : row.total);
+    });
+  };
+  module.exports = SQLItePersistor;
