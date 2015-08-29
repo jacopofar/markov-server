@@ -1,27 +1,40 @@
 'use strict';
 var MarkovModel = require('../model');
-var SQLItePersistor = require('../SQLItePersistor');
 var error_sender = require('../helpers/format_errors');
 
 module.exports = function(req, res, next) {
   function isValidUTF8(buf){
     return Buffer.compare(new Buffer(buf.toString(),'utf8') , buf) === 0;
   };
-  console.log("\n\n content type: "+req.get('Content-Type'));
   if(typeof models[req.params.name] === 'undefined'){
-    models[req.params.name] = new MarkovModel(new SQLItePersistor(req.params.name));
+    models[req.params.name] = new MarkovModel(new global.persistService(req.params.name));
   }
   var mm = models[req.params.name];
   var toLearn;
-  if(req.get('Content-Type') === 'application/x-www-form-urlencoded'){
+  if(req.get('Content-Type') === 'application/x-www-form-urlencoded' || req.get('Content-Type') === 'text/plain;charset=UTF-8'){
     if(!isValidUTF8(req.body)){
       error_sender(res,'invalid UTF-8',422);
       return;
     }
     toLearn = req.body.toString().split(' ');
-    console.log("toLearn: "+JSON.stringify(toLearn));
+    //console.log("toLearn: "+JSON.stringify(toLearn));
   }
-  //TODO manage undefined toLearn, meaning the message was not processed
-  mm.learn(toLearn);
-  res.json({transitions:toLearn.length});
+  if(req.get('Content-Type') === 'application/json'){
+    if(!isValidUTF8(req.body)){
+      error_sender(res,'invalid UTF-8',422);
+      return;
+    }
+    var data = JSON.parse(req.body.toString());
+    if(!Array.isArray(data.sequence)){
+      error_sender(res,'the sequence field has to be present and be an array',400);
+      return;
+    }
+    toLearn = data.sequence;
+    //console.log("toLearn: "+JSON.stringify(toLearn));
+  }
+  if(typeof toLearn === 'undefined'){
+    error_sender(res,'unknown Content-Type, cannot process',400);
+    return;
+  }
+  res.json({transitions:  mm.learn(toLearn)});
 };
