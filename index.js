@@ -2,6 +2,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var nconf = require('nconf');
+var SQLItePersistor = require('../SQLItePersistor');
 
 //command line parameters have priority over environment variables
 nconf.argv().env();
@@ -14,10 +15,11 @@ nconf.defaults({
 var writeApp = express();
 var readApp;
 var metaDataApp;
-writeApp.use(bodyParser.raw({type: function(){return true;}}));
+writeApp.use(bodyParser.raw({type: function(){return true;}, limit : '500kb'}));
 
 global.models = {};
-
+global.persistService = SQLItePersistor;
+global.nconf = nconf;
 
 var writeServer = writeApp.listen(nconf.get('writePort'), function () {
   var host = writeServer.address().address;
@@ -57,3 +59,4 @@ else{
   }
 }
 writeApp.post('/chains/:name/learn',require('./endpoints/learn.js'));
+writeApp.post('/chains/:name/learn_batch',require('./endpoints/learn_batch.js'));
