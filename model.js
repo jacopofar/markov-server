@@ -10,15 +10,43 @@ var MM = function(service){
 */
 MM.prototype.learn = function(array){
   var toAdd = {};
+  var total = 0;
   for(var i=1; i<array.length; i++){
     var start = JSON.stringify(array[i-1]);
     var end = JSON.stringify(array[i]);
     if(typeof toAdd[start] === 'undefined'){
       toAdd[start] = {};
     }
+    total++;
     toAdd[start][end] = 1 + (toAdd[start][end]||0);
   }
   this.persistService.addTransitions(toAdd);
+  return total;
+};
+
+/**
+* Update edge counts based on multiple arrays of symbols.
+* It produces the same result of calling learn() on each array, but can be faster
+* Each symbol is stringified and an edge is created between the strings, so numbers, null, arrays and objects are accepted
+* Nothing is done here to manage delimiters, the caller could add null values for that
+*/
+MM.prototype.learn_batch = function(array_of_arrays){
+  var toAdd = {};
+  var total = 0;
+  for(var j=1; j<array_of_arrays.length; j++){
+    var array = array_of_arrays[j];
+    for(var i=1; i<array.length; i++){
+      var start = JSON.stringify(array[i-1]);
+      var end = JSON.stringify(array[i]);
+      if(typeof toAdd[start] === 'undefined'){
+        toAdd[start] = {};
+      }
+      total++;
+      toAdd[start][end] = 1 + (toAdd[start][end]||0);
+    }
+  }
+  this.persistService.addTransitions(toAdd);
+  return total;
 };
 
 /**
