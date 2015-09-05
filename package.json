@@ -1,6 +1,7 @@
 {
   "name": "markov-server",
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "repository": "https://github.com/jacopofar/markov-server",
   "description": "A Markov chain model server, which allows to create and use Markov chains",
   "main": "index.js",
   "scripts": {
