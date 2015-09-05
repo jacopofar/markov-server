@@ -8,20 +8,8 @@ var MM = function(service){
 * Each symbol is stringified and an edge is created between the strings, so numbers, null, arrays and objects are accepted
 * Nothing is done here to manage delimiters, the caller could add null values for that
 */
-MM.prototype.learn = function(array){
-  var toAdd = {};
-  var total = 0;
-  for(var i=1; i<array.length; i++){
-    var start = JSON.stringify(array[i-1]);
-    var end = JSON.stringify(array[i]);
-    if(typeof toAdd[start] === 'undefined'){
-      toAdd[start] = {};
-    }
-    total++;
-    toAdd[start][end] = 1 + (toAdd[start][end]||0);
-  }
-  this.persistService.addTransitions(toAdd);
-  return total;
+MM.prototype.learn = function(array,callback){
+  this.learn_batch([array],callback);
 };
 
 /**
@@ -30,12 +18,12 @@ MM.prototype.learn = function(array){
 * Each symbol is stringified and an edge is created between the strings, so numbers, null, arrays and objects are accepted
 * Nothing is done here to manage delimiters, the caller could add null values for that
 */
-MM.prototype.learn_batch = function(array_of_arrays){
+MM.prototype.learn_batch = function(array_of_arrays,callback){
   var toAdd = {};
   var total = 0;
-  for(var j=1; j<array_of_arrays.length; j++){
+  for(var j=0; j<array_of_arrays.length; j++){
     var array = array_of_arrays[j];
-    for(var i=1; i<array.length; i++){
+    for(var i=1; i < array.length; i++){
       var start = JSON.stringify(array[i-1]);
       var end = JSON.stringify(array[i]);
       if(typeof toAdd[start] === 'undefined'){
@@ -45,8 +33,7 @@ MM.prototype.learn_batch = function(array_of_arrays){
       toAdd[start][end] = 1 + (toAdd[start][end]||0);
     }
   }
-  this.persistService.addTransitions(toAdd);
-  return total;
+  this.persistService.addTransitions(toAdd,callback);
 };
 
 /**
@@ -84,7 +71,7 @@ MM.prototype.randomSuccessor = function(state,callback){
         }
         else{
           if(Object.keys(successors).length === 0){
-            callback({error:"the initial state is unknown or has no successors",state:state});
+            callback({error:"the initial state is unknown or has no successors",state:state,endOfChain:true});
             return;
           }
           var keys = Object.keys(successors);
@@ -107,6 +94,9 @@ MM.prototype.randomSuccessor = function(state,callback){
 * Get a random sequence of states after the given one, just like calling randomSuccessor iteratively.
 */
 MM.prototype.multipleSuccessors = function(num,curState,cb,curSequence){
+  if(num % 1000 === 0){
+    console.log("successor number "+num+" is "+curState);
+  }
   this.randomSuccessor(curState,function(err,value){
     if(err){
       cb(err,curSequence);
