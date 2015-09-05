@@ -7,9 +7,9 @@ nconf.defaults({
   writePort : 3000,
   metaDataPort : 3001,
   readPort : 3002,
-  //172.17.0.4
   postgresConnString : 'postgres://postgres:mysecretpassword@127.0.0.1/postgres',
-  maxPendingInsertions : 5
+  maxPendingInsertions : 5,
+  CORS: true
 });
 
 var express = require('express');
@@ -65,6 +65,18 @@ else{
     });
   }
 }
+if(nconf.get('CORS')){
+  console.log("allowing cross origin requests");
+  var CORSHeaderAdder = function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+  };
+  writeApp.use(CORSHeaderAdder);
+  writeApp.use(CORSHeaderAdder);
+  metaDataApp.use(CORSHeaderAdder);
+}
+
 writeApp.post('/chains/:name/learn',require('./endpoints/learn.js'));
 writeApp.post('/chains/:name/learn_batch',require('./endpoints/learn_batch.js'));
 readApp.post('/chains/:name/continue/',require('./endpoints/continue.js'));
