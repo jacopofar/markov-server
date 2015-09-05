@@ -4,6 +4,7 @@
   "description": "A Markov chain model server, which allows to create and use Markov chains",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo 'WARNING: postgresql has to be running beforehand. You can use for example docker run --name some-postgres -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres:9.5' && sleep 5; ./node_modules/.bin/mocha"
   },
   "keywords": [
