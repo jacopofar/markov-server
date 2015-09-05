@@ -17,12 +17,12 @@ Run he application with `npm start`, or a command like
 the flags are all optionals, environment variables can be used too. The arguments are:
 
 
-| Name | Description | default |
-|------|-------------|---------|
+| Name   | Description             | default value |
+|--------:|------------------------|---------------|
 |writePort |the port for the insertion endpoints| 3000|
 |metaDataPort | the port for the metadata endpoints| 3001|
 |readPort |the port to read endpoints| 3002|
-|postgresConnString | the postgres connection string |postgres://postgres:mysecretpassword@127.0.0.1/postgres |,
+|postgresConnString | the postgres connection string |postgres://postgres:mysecretpassword@127.0.0.1/postgres |
 |maxPendingInsertions |maximum number of concurrent insertions, then the server will answer with a HTTP 429| 5|
 |CORS| Whether to accept cross origin requests| true|
 
