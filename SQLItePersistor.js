@@ -2,6 +2,7 @@ var sqlite3 = require("sqlite3").verbose();
 var deasync = require('deasync');
 
 var SQLItePersistor = function(name){
+  console.error("WARNING: this persistor has performance and stability issues, it's still a work in progress");
   this.name = name;
   var fileName = name+".db";
   var exists = require('fs').existsSync(fileName);
@@ -41,12 +42,14 @@ SQLItePersistor.prototype.addTransitions = function(toAdd){
         }.bind(this));
       }.bind(this));
     }.bind(this));
+
     try{
       this.db.run("COMMIT");
     }
     catch(ex){
       console.log("error when closing the transaction: "+ex);
     }
+    meta.pendingBatchInsertions--;
     //  }.bind(this));
   };
 
