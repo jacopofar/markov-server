@@ -1,25 +1,32 @@
 'use strict';
-var express = require('express');
-var bodyParser = require('body-parser');
 var nconf = require('nconf');
-var SQLItePersistor = require('../SQLItePersistor');
-
+global.nconf = nconf;
 //command line parameters have priority over environment variables
 nconf.argv().env();
 nconf.defaults({
   writePort : 3000,
   metaDataPort : 3001,
-  readPort : 3002
+  readPort : 3002,
+  //172.17.0.4
+  postgresConnString : 'postgres://postgres:mysecretpassword@127.0.0.1/postgres',
+  maxPendingInsertions : 5
 });
+
+var express = require('express');
+var bodyParser = require('body-parser');
+var PostgresPersistor = require('./PostgresPersistor');
+
 
 var writeApp = express();
 var readApp;
 var metaDataApp;
-writeApp.use(bodyParser.raw({type: function(){return true;}, limit : '500kb'}));
+writeApp.use(bodyParser.raw({type: function(){return true;}, limit : '4mb'}));
 
 global.models = {};
-global.persistService = SQLItePersistor;
-global.nconf = nconf;
+global.meta = {
+  pendingInsertions:0
+};
+global.persistService = PostgresPersistor;
 
 var writeServer = writeApp.listen(nconf.get('writePort'), function () {
   var host = writeServer.address().address;
@@ -60,3 +67,4 @@ else{
 }
 writeApp.post('/chains/:name/learn',require('./endpoints/learn.js'));
 writeApp.post('/chains/:name/learn_batch',require('./endpoints/learn_batch.js'));
+readApp.post('/chains/:name/continue/',require('./endpoints/continue.js'));
