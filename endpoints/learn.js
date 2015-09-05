@@ -3,6 +3,11 @@ var MarkovModel = require('../model');
 var error_sender = require('../helpers/format_errors');
 
 module.exports = function(req, res, next) {
+  if(meta.pendingInsertions > nconf.get('maxPendingInsertions')){
+    error_sender(res,'too many requests',429);
+    console.log("server overloaded, refusing new insertions...");
+    return;
+  }
   function isValidUTF8(buf){
     return Buffer.compare(new Buffer(buf.toString(),'utf8') , buf) === 0;
   };
@@ -36,5 +41,8 @@ module.exports = function(req, res, next) {
     error_sender(res,'unknown Content-Type, cannot process',400);
     return;
   }
-  res.json({transitions:  mm.learn(toLearn)});
+  meta.pendingInsertions++;
+  mm.learn(toLearn,function(learnResult){
+    res.json(learnResult);
+  });
 };

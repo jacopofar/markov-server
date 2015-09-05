@@ -3,6 +3,11 @@ var MarkovModel = require('../model');
 var error_sender = require('../helpers/format_errors');
 
 module.exports = function(req, res, next) {
+  if(meta.pendingInsertions > nconf.get('maxPendingInsertions')){
+    error_sender(res,'too many requests',429);
+    console.log("server overloaded with "+meta.pendingInsertions+" insertions, the limit is "+nconf.get('maxPendingInsertions')+" refusing new ones waiting...");
+    return;
+  }
   function isValidUTF8(buf){
     return Buffer.compare(new Buffer(buf.toString(),'utf8') , buf) === 0;
   };
@@ -28,15 +33,30 @@ module.exports = function(req, res, next) {
         return;
       }
     }
+    if(data.window_size){
+      toLearn = data.sequences.map(function(el){
+        return mm.aggregateStates(el,data.window_size,true);
+      });
+    }
+    else{
     toLearn = data.sequences;
+  }
     //console.log("toLearn: "+JSON.stringify(toLearn));
   }
   if(typeof toLearn === 'undefined'){
     error_sender(res,'unknown Content-Type, cannot process',400);
     return;
   }
-  console.log("batch requested...");
-  var numInserts = mm.learn_batch(toLearn);
-  console.log(new Date().toISOString() + " - batch inserted: "+numInserts);
-  res.json({transitions: numInserts });
+  console.log("batch insertion requested, "+meta.pendingInsertions+" pending...");
+  meta.pendingInsertions++;
+  var numInserts = mm.learn_batch(toLearn,function(result){
+    if(result.aborted){
+      console.log(new Date().toISOString() + " - batch insertion FAILED");
+      res.status(500).json({error:"database error while inserting the data, retry"});
+      return;
+    }
+    console.log(new Date().toISOString() + " - batch inserted: "+result.totalInserts);
+    res.json({transitions: result.totalInserts });
+  });
+
 };
