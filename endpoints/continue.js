@@ -1,6 +1,11 @@
 'use strict';
 var error_sender = require('../helpers/format_errors');
 var isValidUTF8 = function(buf){
+  if(!Buffer.compare){
+    //see https://github.com/jxcore/jxcore/issues/523
+    console.warn("Buffer.compare not available, maybe you are using jxcore? In that case could be an old version");
+    return true;
+  }
   return Buffer.compare(new Buffer(buf.toString(),'utf8') , buf) === 0;
 };
 //chains/:name/continue/:startstate/:num

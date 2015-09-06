@@ -1,16 +1,20 @@
 'use strict';
 var MarkovModel = require('../model');
 var error_sender = require('../helpers/format_errors');
-
+var isValidUTF8 = function(buf){
+  if(!Buffer.compare){
+    //see https://github.com/jxcore/jxcore/issues/523
+    console.warn("Buffer.compare not available, maybe you are using jxcore? In that case could be an old version");
+    return true;
+  }
+  return Buffer.compare(new Buffer(buf.toString(),'utf8') , buf) === 0;
+};
 module.exports = function(req, res, next) {
   if(meta.pendingInsertions > nconf.get('maxPendingInsertions')){
     error_sender(res,'too many requests',429);
     console.log("server overloaded with "+meta.pendingInsertions+" insertions, the limit is "+nconf.get('maxPendingInsertions')+" refusing new ones waiting...");
     return;
   }
-  function isValidUTF8(buf){
-    return Buffer.compare(new Buffer(buf.toString(),'utf8') , buf) === 0;
-  };
   if(typeof models[req.params.name] === 'undefined'){
     models[req.params.name] = new MarkovModel(new global.persistService(req.params.name));
   }
